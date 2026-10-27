@@ -1,0 +1,840 @@
+# head | roots | synonyms (+ ; = ; -) | antonyms (+ ; = ; -) | forms | chunk | check
+# chunk: a root code = words sharing that root; T:Word = words linked by meaning; blank = learned alone
+# check: ok = every root matched a source; part = some roots matched; low = no root matched a source
+Abnegation | L:ab-, L:negare | Self-sacrifice ; Self-denial, Renunciation ; | Indulgence ; ; Self-gratification |  | L:negare | ok
+Abound | L:ab-, L:unda | ; Teem, Proliferate ; Overflow | ; Lack ; Dearth |  | L:unda | ok
+Abrasive | L:ab-, L:radere | ; Rough, Harsh ; Grating, Caustic | Gentle, Soothing ; ; | Abrasion | T:Abrasive | low
+Abridge | L:ab-, L:brevis | ; Condense, Shorten, Curtail ; | ; Expand, Lengthen ; | Abridgment | L:brevis | ok
+Abstinence | L:abs-, L:tenere | Restraint, Self-control ; Fasting ; | Indulgence ; ; Excess | Abstain | L:tenere | low
+Abstruse | L:abs-, L:trudere | ; Esoteric, Recondite ; Obscure | Clear, Lucid ; ; |  | L:trudere | ok
+Acme | G:akme | Pinnacle, Zenith ; Peak, Apex ; | ; ; Nadir |  | T:Acme | low
+Acolyte | G:akolouthos | ; Attendant, Assistant, Follower ; Minion | ; ; |  |  | ok
+Acrimonious | L:acer | ; Bitter ; Rancorous, Caustic, Venomous | Amicable, Cordial ; ; | Acrimony | T:Abrasive | ok
+Acumen | L:acuere | Shrewdness, Insight, Sagacity ; Astuteness ; | ; ; Obtuseness, Naivety |  |  | ok
+Adage | L:adagium | ; Proverb, Saying, Maxim ; | ; ; |  | T:Adage | ok
+Adamant | G:a-, G:damao | Resolute ; Unyielding, Inflexible ; Obstinate, Intransigent | Flexible, Amenable ; Wavering ; | Adamance | T:Adamant | ok
+Adherent | L:ad-, L:haerere | ; Follower, Supporter, Devotee ; | ; Opponent ; Detractor | Adhere, Adherence | L:haerere | ok
+Admonish | L:ad-, L:monere | ; Caution, Warn, Advise ; Reprimand, Rebuke, Chide | Commend, Praise ; ; | Admonition | T:Admonish | ok
+Adroit | L:ad-, L:regere | Skillful, Deft, Dexterous ; Nimble ; | ; ; Clumsy, Inept, Maladroit | Adroitness | L:regere | ok
+Adulation | L:adulari | Admiration ; ; Flattery, Fawning, Sycophancy | ; Criticism ; Disparagement | Adulate | T:Adulation | ok
+Adulterate | L:ad-, L:alter | ; Dilute ; Contaminate, Debase, Corrupt | Purify, Refine ; ; | Adulteration, Unadulterated | L:alter | ok
+Advent | L:ad-, L:venire | ; Arrival, Coming, Onset ; | ; Departure ; |  | L:venire | ok
+Adversity | L:ad-, L:vertere | ; Hardship, Misfortune ; Calamity, Affliction | Prosperity, Fortune ; ; | Adverse | L:vertere | ok
+Aegis | G:aigis | Protection, Patronage ; Sponsorship, Auspices ; | ; ; |  | T:Aegis | ok
+Affable | L:ad-, L:fari | Amiable, Genial, Cordial ; Friendly ; | ; ; Aloof, Surly | Affability | L:fari | low
+Affirmation | L:ad-, L:firmus | ; Assertion, Declaration ; | ; Denial ; | Affirm | T:Affirmation | ok
+Affluence | L:ad-, L:fluere | Prosperity, Opulence ; Wealth ; | ; ; Penury, Poverty | Affluent | L:fluere | low
+Affront | L:ad-, L:frons | ; Slight ; Insult, Indignity | Compliment, Tribute ; ; |  |  | ok
+Aggrandizement | L:ad-, L:grandis | Enhancement, Exaltation ; Expansion ; | ; Diminishment ; Belittlement | Aggrandize | L:grandis | ok
+Aggravate | L:ad-, L:gravis | ; Worsen, Intensify ; Exacerbate | Alleviate, Soothe ; ; | Aggravation | T:Aggravate | ok
+Agnostic | G:a-, G:gignoskein | ; Skeptic, Doubter ; | Believer ; ; | Agnosticism |  | ok
+Alacrity | L:alacer | Eagerness, Promptness, Briskness ; ; | ; Reluctance ; Lethargy, Sluggishness |  | T:Alacrity | ok
+Alienate | L:alienus | ; Estrange, Isolate ; Antagonize | Reconcile, Befriend ; ; | Alienation | L:alienus | ok
+Alleviate | L:ad-, L:levis | Soothe, Ease ; Relieve, Lighten ; | ; ; Aggravate, Exacerbate | Alleviation | L:levis | ok
+Altruism | L:alter | Selflessness, Benevolence ; Philanthropy ; | ; ; Selfishness | Altruistic | L:alter | ok
+Amalgamate | L:amalgama | ; Merge, Combine, Fuse ; | ; Separate ; | Amalgam, Amalgamation |  | ok
+Ambience | L:ambi-, L:ire | ; Atmosphere, Mood, Milieu ; | ; ; | Ambient | L:ire | low
+Ambiguity | L:ambi-, L:agere | ; Vagueness, Uncertainty, Equivocation ; | Clarity, Precision ; ; | Ambiguous | L:agere | low
+Ameliorate | L:ad-, L:melior | Improve, Enhance ; Better ; | ; ; Worsen, Deteriorate | Amelioration |  | ok
+Amenable | L:ad-, L:minare | Cooperative, Receptive ; Tractable, Compliant ; | ; ; Obstinate, Intractable |  | T:Adamant | ok
+Amicable | L:amicus | Friendly, Cordial, Harmonious ; Peaceable ; | ; ; Hostile, Acrimonious | Amicably | T:Abrasive | ok
+Amorphous | G:a-, G:morphe | ; Shapeless, Formless ; Nebulous, Vague | ; Defined, Structured ; |  | G:morphe | ok
+Anachronism | G:ana-, G:chronos | ; Misdating, Throwback ; Relic | ; ; | Anachronistic |  | ok
+Anarchy | G:a-, G:arche | ; Lawlessness, Disorder ; Chaos, Mayhem | Order, Governance ; ; | Anarchic | G:arche | ok
+Anathema | G:ana-, G:tithenai | ; Curse, Taboo ; Abomination, Bane | Blessing ; ; |  | G:tithenai | ok
+Anomaly | G:a-, G:homalos | ; Aberration, Irregularity, Deviation ; | ; Norm, Regularity ; | Anomalous |  | ok
+Antagonism | G:anti-, G:agon | ; Opposition, Rivalry ; Hostility, Enmity | Harmony, Rapport ; ; | Antagonist, Antagonize | G:agon | ok
+Antecedent | L:ante-, L:cedere | ; Precursor, Forerunner ; | ; Consequent ; |  | L:cedere | ok
+Antipathy | G:anti-, G:pathos | ; Aversion ; Hostility, Revulsion, Enmity | Affinity, Rapport ; Empathy ; |  | G:pathos | ok
+Antithesis | G:anti-, G:tithenai | ; Opposite, Converse, Contrary ; | ; ; | Antithetical | G:tithenai | low
+Apathy | G:a-, G:pathos | ; Indifference, Detachment ; Lethargy, Torpor | Enthusiasm, Zeal ; ; | Apathetic | G:pathos | ok
+Aphorism | G:apo-, G:horos | ; Maxim, Adage, Saying ; | ; ; | Aphoristic | T:Adage | ok
+Aplomb | L:ad-, L:plumbum | Poise, Composure, Self-assurance ; ; | ; ; Nervousness, Diffidence |  |  | low
+Apogee | G:apo-, G:ge | Pinnacle, Zenith, Acme ; Peak ; | ; Perigee ; Nadir |  | T:Acme | ok
+Apostate | G:apo-, G:histemi | ; Defector ; Renegade, Traitor | Loyalist, Adherent ; ; | Apostasy | T:Apostate | ok
+Appease | L:ad-, L:pax | ; Pacify, Placate, Mollify ; | ; ; Provoke, Antagonize | Appeasement | T:Appease | low
+Apposite | L:ad-, L:ponere | Apt, Fitting ; Pertinent, Germane, Relevant ; | ; ; Irrelevant, Inapt |  | L:ponere | ok
+Appraisal | L:ad-, L:pretium | ; Assessment, Evaluation, Valuation ; | ; ; | Appraise |  | low
+Apprehension | L:ad-, L:prehendere | ; Arrest, Capture ; Anxiety, Dread, Foreboding | Calm, Confidence ; ; | Apprehend, Apprehensive | L:prehendere | low
+Apprise | L:ad-, L:prehendere | ; Inform, Notify, Advise ; | ; Conceal ; |  | L:prehendere | ok
+Approbation | L:ad-, L:probus | Approval, Commendation, Sanction ; ; | ; Disapproval ; Censure, Condemnation |  | L:probus | ok
+Apropos | L:ad-, L:ponere | ; Relevant, Pertinent, Opportune ; | ; Irrelevant ; |  | L:ponere | low
+Aptitude | L:aptus | Talent, Flair, Gift ; Ability, Capacity ; | ; ; Ineptitude |  |  | ok
+Arbiter | L:arbiter | ; Adjudicator, Umpire, Judge ; | ; ; | Arbitrate |  | ok
+Archaic | G:arche | ; Obsolete, Antiquated, Outmoded ; | Modern, Contemporary ; ; | Archaism | G:arche | ok
+Archetype | G:arche, G:typos | ; Prototype, Model, Paradigm ; | ; ; | Archetypal | G:arche | ok
+Ardent | L:ardere | Passionate, Fervent, Zealous ; Keen ; | ; ; Apathetic, Lukewarm | Ardor |  | ok
+Arduous | L:arduus | ; Strenuous, Laborious, Taxing ; Grueling | Effortless, Easy ; ; |  |  | low
+Aristocracy | G:aristos, G:kratos | ; Nobility, Gentry, Peerage ; | ; Democracy, Commonalty ; | Aristocrat, Aristocratic | G:kratos | ok
+Arrogance | L:ad-, L:rogare | ; Haughtiness ; Conceit, Hubris, Presumption | Humility, Modesty ; ; | Arrogant | T:Arrogance | low
+Articulate | L:artus | Eloquent, Lucid, Fluent ; Express, Voice ; | ; ; Inarticulate, Incoherent | Articulation |  | ok
+Artifice | L:ars, L:facere | ; Craft, Ingenuity ; Trickery, Guile, Subterfuge | Candor, Sincerity ; ; | Artificial |  | low
+Ascertain | L:ad-, L:certus | ; Determine, Establish, Verify ; | ; ; |  |  | ok
+Ascetic | G:askein | ; Austere, Abstemious ; Spartan | Hedonist, Sybarite ; ; | Asceticism | T:Ascetic | ok
+Ascribe | L:ad-, L:scribere | ; Attribute, Credit, Assign ; Impute | ; ; | Ascription | L:scribere | ok
+Asinine | L:asinus | ; Foolish, Inane ; Idiotic, Fatuous | Sensible, Judicious ; ; |  | T:Asinine | ok
+Asperity | L:asper | ; Roughness, Harshness ; Acrimony, Sharpness | Gentleness, Smoothness ; ; |  |  | ok
+Aspersion | L:ad-, L:spargere | ; ; Slur, Slander, Calumny | Praise, Compliment ; ; | Asperse |  | low
+Assail | L:ad-, L:salire | ; Attack, Assault ; Berate, Lambaste | Defend, Protect ; ; | Unassailable | L:salire | ok
+Assent | L:ad-, L:sentire | Approval ; Consent, Agreement, Acquiescence ; | ; Dissent ; Refusal |  | L:sentire | ok
+Assertion | L:ad-, L:serere | ; Claim, Declaration, Contention ; | ; Denial, Retraction ; | Assert, Assertive | T:Affirmation | ok
+Assiduous | L:ad-, L:sedere | Diligent, Industrious, Painstaking ; Persistent ; | ; ; Negligent, Indolent | Assiduity | L:sedere | ok
+Assuage | L:ad-, L:suavis | Soothe, Comfort ; Alleviate, Mitigate ; | ; ; Aggravate, Inflame |  | T:Aggravate | ok
+Asymmetry | G:a-, G:syn-, G:metron | ; Imbalance, Disproportion ; | Symmetry, Balance ; ; | Asymmetric |  | ok
+Atrophy | G:a-, G:trophe | ; Wasting, Degeneration ; Decay | Growth, Development ; ; | Atrophied |  | ok
+Attenuate | L:ad-, L:tenuis | ; Weaken, Dilute, Reduce ; | Strengthen, Intensify ; ; | Attenuation | L:tenuis | ok
+Atypical | G:a-, G:typos | ; Unusual, Anomalous, Irregular ; | ; Typical, Standard ; |  |  | low
+Audacity | L:audere | Boldness, Daring ; Nerve ; Temerity, Impudence | ; ; Timidity, Cowardice | Audacious | T:Audacity | ok
+Augment | L:augere | ; Increase, Enlarge, Supplement ; | ; Diminish, Reduce ; | Augmentation |  | ok
+Augury | L:augur | ; Omen, Portent, Prophecy ; | ; ; | Augur |  | ok
+Auspicious | L:avis, L:specere | Propitious, Favorable, Fortunate ; Promising ; | ; ; Ominous, Inauspicious | Auspices | L:specere | ok
+Austere | G:auos | ; Stern, Severe, Spartan ; Harsh | Lavish, Opulent ; Indulgent ; | Austerity | T:Ascetic | ok
+Autocracy | G:autos, G:kratos | ; Dictatorship, Absolutism ; Despotism, Tyranny | Democracy ; ; | Autocrat, Autocratic | G:kratos | ok
+Avarice | L:avere | ; ; Greed, Cupidity, Rapacity | Generosity, Munificence ; ; | Avaricious | L:avere | ok
+Aver | L:ad-, L:verus | ; Assert, Affirm, Declare ; | ; Deny ; | Averment | L:verus | ok
+Averse | L:ab-, L:vertere | ; Reluctant, Disinclined, Opposed ; | Eager, Inclined ; ; | Aversion | L:vertere | ok
+Avid | L:avere | Eager, Keen, Enthusiastic ; ; | ; Indifferent ; Apathetic | Avidity | L:avere | ok
+Avow | L:ad-, L:vocare | ; Declare, Confess, Acknowledge ; | ; Disavow, Deny ; | Avowal |  | ok
+Axiom | G:axios | ; Principle, Postulate, Truism ; | ; ; | Axiomatic |  | ok
+Baffle | F:beffer | ; Perplex, Puzzle, Confound ; Thwart | Enlighten, Clarify ; ; | Bafflement | T:Baffle | ok
+Balk | E:balca | ; Hesitate, Demur, Recoil ; Refuse | ; Proceed ; |  |  | ok
+Banal | E:bannan | ; Commonplace, Trite ; Vapid, Hackneyed | Original, Fresh ; ; | Banality | T:Asinine | ok
+Bane | E:bana | ; ; Curse, Scourge, Affliction | Blessing, Boon ; ; | Baneful | T:Bane | ok
+Banter | ?:banter | ; Repartee, Badinage ; | ; ; |  |  | low
+Barbaric | G:barbaros | ; Primitive, Uncivilized ; Savage, Brutal | Civilized, Refined ; ; | Barbarian, Barbarity |  | ok
+Bastion | F:bastir | Bulwark, Stronghold ; Citadel ; | ; ; |  |  | ok
+Bathetic | G:bathys | ; Anticlimactic ; Trite, Mawkish | ; ; | Bathos | T:Bathetic | low
+Beget | E:begietan | ; Father, Sire, Engender ; | ; ; |  |  | ok
+Beguile | E:be-, F:guile | Charm, Captivate ; Enchant ; Deceive, Hoodwink | ; ; | Beguiling |  | low
+Behemoth | He:behemoth | ; Giant, Colossus ; | ; Pygmy ; |  |  | ok
+Beholden | E:healdan | ; Indebted, Obligated, Obliged ; | ; Independent ; |  | E:healdan | low
+Behoove | E:behofian | ; Befit, Be necessary ; | ; ; |  |  | ok
+Belated | E:laet | ; Overdue, Tardy ; Delayed | Timely, Prompt ; ; | Belatedly |  | low
+Beleaguer | D:leger | ; Besiege, Surround ; Harass, Plague | Relieve ; ; | Beleaguered |  | ok
+Belie | E:be-, E:leogan | ; Contradict, Misrepresent, Disguise ; | ; Reveal, Confirm ; |  |  | low
+Belittle | E:be-, E:lytel | ; Minimize, Understate ; Disparage, Demean, Deride | Praise, Extol ; ; |  | T:Belittle | low
+Bellicose | L:bellum | ; Combative, Warlike ; Pugnacious, Truculent | Pacific, Peaceable ; ; | Bellicosity | L:bellum | ok
+Belligerent | L:bellum, L:gerere | ; Hostile, Combative ; Aggressive, Pugnacious | Peaceable, Conciliatory ; ; | Belligerence | L:bellum | ok
+Bellwether | E:belle, E:wethar | Trendsetter ; Indicator, Barometer ; | ; ; |  |  | low
+Bemoan | E:be-, E:maenan | ; Lament, Deplore ; Grumble | Celebrate, Rejoice ; ; |  | T:Bemoan | ok
+Bemused | E:be-, F:muser | ; Puzzled, Bewildered, Perplexed ; | Enlightened ; ; |  |  | low
+Benefactor | L:bene, L:facere | Patron, Philanthropist ; Donor ; | ; ; Malefactor | Benefaction | L:bene | ok
+Beneficent | L:bene, L:facere | Benevolent, Charitable, Generous ; ; | ; ; Maleficent, Malevolent | Beneficence | L:bene | ok
+Benign | L:bene, L:genus | Kindly, Gentle ; Mild, Harmless ; | ; ; Malign, Malignant | Benignity | L:genus | ok
+Berate | E:be-, E:rate | ; Scold, Reprimand ; Upbraid, Chastise, Lambaste | Praise, Commend ; ; |  | T:Berate | low
+Bereavement | E:reafian | ; Loss, Mourning ; Anguish | ; ; | Bereave | E:reafian | low
+Bereft | E:reafian | ; Deprived, Devoid ; Destitute, Forlorn | Endowed, Replete ; ; |  | E:reafian | low
+Beseech | E:be-, E:secan | ; Implore, Entreat, Beg ; | ; Demand ; |  |  | ok
+Beset | E:be-, E:settan | ; Surround, Hem in ; Plague, Harass | ; ; |  |  | ok
+Besmirch | E:be-, ?:smirch | Honor ; ; Defame, Sully, Tarnish | ; ; |  | T:Besmirch | low
+Blanch | E:blank | ; Whiten, Pale, Bleach ; | ; Blush ; |  |  | ok
+Blandishment | L:blandus | ; Coaxing, Cajolery ; Flattery, Wheedling | ; ; | Blandish |  | ok
+Blase | F:blaser | ; Nonchalant, Unimpressed, Jaded ; Apathetic | Enthusiastic, Excited ; ; |  | T:Blase | low
+Blasphemy | G:blasphemia | ; ; Sacrilege, Profanity, Impiety | Reverence, Piety ; ; | Blasphemous |  | ok
+Blatant | L:blatire | ; Flagrant, Glaring, Overt ; Brazen, Barefaced | Subtle, Covert ; ; | Blatancy | T:Blatant | ok
+Bleak | E:blaec | ; Desolate, Barren ; Dismal, Dreary, Grim | Cheerful, Promising ; ; |  |  | ok
+Blight | ?:blight | ; Disease ; Scourge, Plague, Affliction | Boon ; ; |  | T:Bane | low
+Blithe | E:blithe | Cheerful, Carefree, Jaunty ; ; Heedless | ; ; Gloomy, Morose | Blithely |  | ok
+Blunder | N:blunda | ; Mistake, Gaffe, Lapse ; Fiasco | ; ; |  | T:Blunder | ok
+Bluster | ?:bluster | ; Swagger ; Bombast, Bravado | ; ; |  | T:Arrogance | low
+Bode | E:bodian | ; Portend, Presage, Augur ; | ; ; |  |  | ok
+Bogus | ?:bogus | ; Fake, Counterfeit, Sham ; Spurious | Genuine, Authentic ; ; |  | T:Bogus | low
+Boisterous | F:boitous | ; Rowdy, Exuberant ; Unruly, Raucous | Calm, Sedate ; ; |  | T:Boisterous | ok
+Bolster | E:bolster | Fortify, Reinforce ; Support, Prop ; | ; ; Undermine, Weaken |  | T:Bolster | ok
+Bombastic | G:bombyx | ; Grandiloquent, Pompous ; Turgid, Inflated | Plainspoken, Concise ; ; | Bombast |  | low
+Boon | N:bon | Blessing, Benefit, Windfall ; Favor ; | ; ; Bane, Curse |  | T:Bane | ok
+Boorish | D:boer | ; Rude, Uncouth ; Crude, Loutish, Churlish | Refined, Urbane ; ; | Boor | T:Boorish | low
+Bountiful | L:bonus | Abundant, Plentiful, Generous ; Ample ; | ; ; Meager, Scanty | Bounty | T:Bountiful | low
+Bourgeois | E:burgz | ; Middle-class ; Materialistic, Conventional, Philistine | Aristocratic ; Proletarian ; | Bourgeoisie |  | ok
+Bravado | I:bravare | ; Swagger ; Bluster, Bluff, Braggadocio | Humility, Diffidence ; ; |  | T:Arrogance | ok
+Brazen | E:braes | ; Bold, Barefaced ; Shameless, Impudent, Insolent | Demure, Bashful ; ; | Brazenly | T:Blatant | ok
+Brevity | L:brevis | Conciseness, Terseness ; Succinctness ; | ; ; Prolixity, Verbosity | Brief | L:brevis | ok
+Brunt | ?:brunt | ; Impact, Burden, Force ; | ; ; |  |  | low
+Brusque | I:brusco | ; Curt, Abrupt, Blunt ; Gruff, Discourteous | Courteous, Gracious ; ; | Brusquely |  | ok
+Bucolic | G:bous, G:kolos | Idyllic, Pastoral ; Rustic, Rural ; | ; Urban ; |  |  | ok
+Buffet | F:buffet | ; Strike, Batter ; Pummel | ; ; |  |  | ok
+Bungling | ?:bungle | ; ; Inept, Clumsy, Incompetent | Skillful, Adroit ; ; | Bungle |  | low
+Buoyant | S:boyar | Cheerful, Optimistic, Lively ; Floating ; | ; ; Depressed, Despondent | Buoyancy | T:Buoyant | low
+Burgeon | F:burjon | ; Flourish, Sprout, Proliferate ; | ; Wither ; Dwindle | Burgeoning | T:Burgeon | ok
+Burnish | F:brunir | Polish, Buff ; ; | ; ; Tarnish, Dull |  | T:Besmirch | ok
+Buttress | F:bouter | Bolster, Fortify ; Support, Prop ; | ; ; Undermine, Weaken |  | T:Bolster | ok
+Cabal | He:qabbalah | ; Faction ; Clique, Junta, Conspiracy | ; ; |  | T:Cabal | low
+Cacophony | G:kakos, G:phone | ; ; Dissonance, Din, Discord | Harmony, Euphony ; ; | Cacophonous |  | ok
+Cadence | L:cadere | ; Rhythm, Beat, Lilt ; | ; ; | Cadent | L:cadere | ok
+Cajole | F:cajoler | Coax ; Persuade ; Wheedle, Inveigle | ; ; | Cajolery | T:Cajole | ok
+Calamity | L:calamitas | ; Disaster, Catastrophe ; Cataclysm, Tragedy | Boon, Blessing ; ; | Calamitous | T:Bane | ok
+Callow | E:calu | ; Inexperienced, Immature, Green ; Naive | Seasoned, Mature ; ; |  |  | ok
+Camaraderie | L:camera | Fellowship, Comradeship, Rapport ; ; | ; ; Animosity |  |  | low
+Candid | L:candere | Frank, Forthright ; Open, Straightforward ; Blunt | ; Evasive ; Guarded | Candor, Candidly |  | low
+Capacitate | L:capere | ; Enable, Empower ; | ; Disable ; |  | L:capere | low
+Capitulate | L:caput | ; Surrender, Yield, Submit ; Succumb | Resist, Persevere ; ; | Capitulation | L:caput | ok
+Captious | L:capere | ; Critical ; Carping, Fault-finding, Cavilling | Uncritical, Easygoing ; ; |  | L:capere | ok
+Castigate | L:castus | ; Reprimand, Rebuke, Chastise ; Lambaste, Excoriate | Praise, Commend ; ; | Castigation | L:castus | ok
+Cataclysm | G:kata-, G:klyzein | ; Upheaval, Deluge ; Catastrophe, Calamity | ; ; | Cataclysmic | T:Bane | ok
+Catharsis | G:kathairein | Purification, Release ; Cleansing ; | ; ; | Cathartic |  | ok
+Caustic | G:kaiein | ; Corrosive ; Acerbic, Scathing, Sarcastic | Gentle, Soothing ; ; | Causticity | T:Abrasive | ok
+Cavalier | L:caballus | ; Offhand ; Disdainful, Haughty, Flippant | Respectful, Earnest ; ; | Cavalierly | T:Cavalier | ok
+Ceremonious | L:caerimonia | ; Formal, Stately ; Punctilious, Pompous | Informal, Casual ; ; | Ceremony |  | ok
+Chagrin | F:chagrin | ; Annoyance ; Mortification, Humiliation, Vexation | Delight, Satisfaction ; ; |  |  | ok
+Charisma | G:charis | Charm, Magnetism, Allure ; Appeal ; | ; ; | Charismatic |  | ok
+Charlatan | I:ciarlare | ; Pretender ; Fraud, Impostor, Quack | ; ; |  |  | ok
+Chastise | L:castus | ; Reprimand, Rebuke, Scold ; Castigate, Berate | Praise, Commend ; ; | Chastisement | L:castus | ok
+Chauvinist | F:Chauvin | ; Nationalist, Jingoist ; Bigot, Sexist | ; ; | Chauvinism |  | low
+Chimerical | G:chimaira | ; Fanciful, Imaginary ; Illusory, Fantastic | Realistic, Practical ; ; | Chimera |  | low
+Chronological | G:chronos, G:logos | ; Sequential, Ordered ; | ; Random ; | Chronology | G:logos | low
+Circumspect | L:circum-, L:specere | Prudent, Judicious ; Cautious, Wary ; | ; ; Rash, Reckless | Circumspection | L:specere | ok
+Clarion | L:clarus | Rousing, Stirring ; Resounding ; | ; ; |  |  | ok
+Cliche | F:clicher | ; Platitude, Truism, Stereotype ; Banality | Original, Fresh ; ; | Cliched | T:Cliche | low
+Clique | F:cliquer | ; Coterie, Circle ; Cabal, Faction | ; ; | Cliquish | T:Cabal | ok
+Clout | E:clut | ; Influence, Leverage, Sway ; | ; Impotence ; |  |  | ok
+Coalesce | L:com-, L:alescere | ; Merge, Unite, Fuse ; | ; Disperse, Disband ; | Coalescence |  | ok
+Codification | L:codex, L:facere | ; Systematization, Compilation ; | ; ; | Codify, Code |  | low
+Cogent | L:com-, L:agere | Convincing, Compelling, Persuasive ; Valid ; | ; ; Weak, Feeble | Cogency | L:agere | low
+Coherent | L:com-, L:haerere | Lucid, Logical, Articulate ; Consistent ; | ; ; Incoherent, Disjointed | Coherence | L:haerere | ok
+Cohesion | L:com-, L:haerere | ; Unity, Solidarity ; | ; Disunity ; | Cohesive | L:haerere | low
+Collaborative | L:com-, L:laborare | ; Joint, Cooperative ; | ; Solitary ; | Collaborate, Collaboration |  | low
+Commensurate | L:com-, L:metiri | ; Proportionate, Equivalent, Corresponding ; | ; Disproportionate ; | Commensurability |  | low
+Convergence | L:com-, L:vergere | ; Meeting, Confluence ; | ; Divergence ; | Converge, Convergent |  | ok
+Dalliance | F:dalier | ; Flirtation, Trifling ; Frivolity | ; ; | Dally |  | ok
+Daunt | L:domare | ; Deter ; Intimidate, Dishearten, Cow | Encourage, Reassure, Embolden ; ; | Daunting, Undaunted |  | low
+Dearth | E:deore | ; ; Scarcity, Paucity, Shortage | Abundance, Plethora ; ; |  | T:Dearth | low
+Debacle | F:debacler | ; ; Fiasco, Collapse, Rout | Triumph ; ; |  | T:Blunder | ok
+Debilitate | L:debilis | ; Weaken, Enfeeble, Sap ; | Strengthen, Invigorate ; ; | Debility | T:Debilitate | ok
+Debunk | ?:bunk | ; Expose, Disprove, Refute ; | ; ; |  | T:Debunk | low
+Decadence | L:de-, L:cadere | ; Decline, Deterioration ; Degeneracy, Dissipation | ; ; | Decadent | L:cadere | ok
+Decorum | L:decor | Propriety, Etiquette ; Dignity ; | ; ; Impropriety | Decorous | T:Decorum | ok
+Decry | F:decrier | ; Condemn, Denounce ; Denigrate, Disparage | Applaud, Laud ; ; |  | T:Belittle | ok
+Deference | L:de-, L:ferre | Respect, Courtesy ; Submission ; | ; ; Insolence | Deferential | L:ferre | low
+Defunct | L:de-, L:fungi | ; Dead, Obsolete, Extinct ; | ; Extant, Functioning ; |  | L:fungi | ok
+Degradation | L:de-, L:gradi | ; Deterioration, Decline ; Debasement, Humiliation | Elevation, Enhancement ; ; | Degrade | L:gradi | low
+Deleterious | G:deleisthai | ; Harmful, Damaging ; Noxious, Pernicious, Detrimental | Beneficial, Salutary ; ; |  | T:Deleterious | ok
+Delineate | L:de-, L:linea | ; Outline, Depict, Sketch ; | ; Blur ; | Delineation |  | ok
+Demagogue | G:demos, G:agein | ; Agitator ; Rabble-rouser, Firebrand | Statesman ; ; | Demagoguery | G:demos | part
+Demise | L:de-, L:mittere | ; Death, Passing ; Downfall, Collapse | Birth, Inception ; ; |  | L:mittere | ok
+Demystify | L:de-, G:myein | ; Clarify, Explain, Elucidate ; | ; ; Obfuscate, Mystify |  | T:Demystify | low
+Denigrate | L:de-, L:niger | ; ; Disparage, Belittle, Vilify | Praise, Extol ; ; | Denigration | T:Belittle | ok
+Denouement | L:de-, L:nodus | ; Outcome, Resolution, Finale ; | ; Exposition ; |  |  | low
+Depravity | L:de-, L:pravus | ; ; Wickedness, Corruption, Degeneracy | Virtue, Probity ; ; | Depraved |  | low
+Ebullient | L:e-, L:bullire | Exuberant, Effervescent, Buoyant ; Lively ; | ; ; Lethargic, Dour | Ebullience | T:Buoyant | ok
+Eccentric | G:ek-, G:kentron | ; Unconventional, Idiosyncratic ; Quirky, Erratic, Outlandish | Conventional, Orthodox ; ; | Eccentricity | T:Eccentric | ok
+Ecclesiastical | G:ekklesia | ; Clerical, Churchly ; | Secular, Lay ; ; | Ecclesiastic |  | ok
+Eclectic | G:ek-, G:legein | Diverse, Wide-ranging ; Varied, Broad ; | ; ; | Eclecticism | G:legein | ok
+Egalitarian | L:aequus | ; Equal, Democratic ; | ; Elitist, Hierarchical ; | Egalitarianism | L:aequus | ok
+Egregious | L:e-, L:grex | ; ; Flagrant, Glaring, Outrageous | ; ; | Egregiously | T:Blatant | ok
+Egress | L:e-, L:gradi | ; Exit, Departure ; | ; Ingress, Entrance ; |  | L:gradi | low
+Elation | L:e-, L:ferre | Euphoria, Jubilation, Exultation ; Joy ; | ; ; Dejection, Despondency | Elated | L:ferre | ok
+Elegy | G:elegeia | ; Lament, Dirge ; Threnody | ; ; | Elegiac | T:Bemoan | ok
+Elicit | L:e-, L:lacere | ; Evoke, Extract, Draw out ; | ; Suppress ; |  |  | low
+Eloquent | L:e-, L:loqui | Articulate, Fluent, Persuasive ; Expressive ; | ; ; Inarticulate, Tongue-tied | Eloquence | L:loqui | ok
+Elucidate | L:e-, L:lucere | ; Clarify, Explain, Illuminate ; | ; ; Obfuscate, Obscure | Elucidation | L:lucere | low
+Elusive | L:e-, L:ludere | ; Evasive, Slippery, Intangible ; Baffling | ; Obvious ; | Elude |  | ok
+Emaciated | L:e-, L:macies | ; Gaunt, Skeletal, Wasted ; Haggard | Plump, Robust ; ; | Emaciation | T:Emaciated | low
+Embargo | S:embargar | ; Ban, Prohibition, Blockade ; | ; ; |  |  | ok
+Embellish | L:bellus | Adorn, Beautify ; Decorate, Embroider ; Exaggerate | ; ; | Embellishment |  | ok
+Embody | E:en-, E:bodig | ; Personify, Epitomize, Represent ; | ; ; | Embodiment |  | low
+Emend | L:e-, L:mendum | ; Correct, Revise, Amend ; | ; ; | Emendation |  | ok
+Empathetic | G:en-, G:pathos | Compassionate, Understanding, Sympathetic ; Sensitive ; | ; ; Callous, Unfeeling | Empathy | G:pathos | low
+Empirical | G:empeiria | ; Observational, Experimental, Practical ; | ; Theoretical ; | Empiricism |  | low
+Emulate | L:aemulus | Imitate, Mirror ; Follow, Match ; Ape, Mimic | ; ; | Emulation |  | ok
+Encomium | G:en-, G:komos | Tribute, Panegyric, Accolade ; Eulogy ; | ; ; Diatribe, Censure |  |  | ok
+Encroach | F:croc | ; Trespass, Intrude, Infringe ; Usurp | ; Respect ; | Encroachment | T:Encroach | ok
+Endemic | G:en-, G:demos | ; Native, Local, Indigenous ; Prevalent | Foreign, Imported ; ; |  | G:demos | ok
+Enervate | L:e-, L:nervus | ; Weaken, Exhaust, Debilitate ; Sap | Invigorate, Energize ; ; | Enervation | T:Debilitate | ok
+Enfranchise | E:frank | Liberate, Emancipate ; Empower ; | ; Disenfranchise ; | Enfranchisement |  | ok
+Enigma | G:ainos | ; Puzzle, Riddle, Mystery ; | ; Solution ; | Enigmatic |  | low
+Ephemeral | G:epi-, G:hemera | ; Transient, Fleeting, Short-lived ; | Permanent, Enduring ; ; | Ephemerality |  | ok
+Facetious | L:facetus | ; Jocular, Flippant, Tongue-in-cheek ; Glib | Serious, Earnest ; ; | Facetiousness | T:Facetious | ok
+Faction | L:facere | ; Bloc, Sect ; Clique, Cabal | ; ; | Factious | T:Cabal | ok
+Fallacy | L:fallere | ; Error ; Misconception, Falsehood, Sophism | Truth, Verity ; ; | Fallacious | L:fallere | ok
+Fallible | L:fallere | ; Imperfect, Error-prone ; | Infallible ; ; | Fallibility | L:fallere | ok
+Falter | N:faltrask | ; Hesitate, Waver, Stumble ; Flinch | Persevere, Persist ; ; |  |  | ok
+Fanaticism | L:fanum | ; Zealotry ; Extremism, Bigotry | Moderation ; ; | Fanatic | T:Fanaticism | low
+Fastidious | L:fastidium | Meticulous, Discerning ; Particular ; Finicky, Fussy | ; Careless ; | Fastidiousness | T:Fastidious | ok
+Fatalism | L:fari | ; Resignation, Determinism ; Defeatism | Optimism ; ; | Fatalist | L:fari | low
+Fathom | E:faethm | ; Comprehend, Grasp, Gauge ; | ; Misunderstand, Misconstrue ; | Unfathomable |  | ok
+Fawning | E:faegnian | ; ; Obsequious, Servile, Groveling | ; ; | Fawn | T:Adulation | low
+Fealty | L:fides | Loyalty, Allegiance ; Faithfulness ; | ; ; Betrayal, Treachery |  | L:fides | ok
+Feasible | L:facere | ; Viable, Practicable, Workable ; | ; Impracticable ; | Feasibility |  | ok
+Feckless | L:facere | ; Ineffectual, Irresponsible ; Useless, Inept | Efficient, Capable ; ; | Fecklessness |  | low
+Fecund | L:fecundus | Fertile, Prolific ; ; | ; ; Barren, Sterile | Fecundity | T:Fecund | ok
+Feign | L:fingere | ; Pretend, Simulate, Affect ; Fake | ; ; |  | L:fingere | ok
+Felicity | L:felix | Bliss, Happiness, Joy ; ; | ; ; Misery | Felicitous |  | ok
+Ferment | L:fervere | ; Unrest, Agitation ; Turmoil | Calm ; ; | Fermentation | L:fervere | ok
+Fervent | L:fervere | Passionate, Ardent, Zealous ; Intense ; | ; ; Apathetic, Lukewarm | Fervor | L:fervere | ok
+Fetter | E:fetor | ; Shackle, Restrain, Hamper ; Manacle | Free, Liberate ; ; | Fettered, Unfettered | T:Fetter | low
+Fiasco | I:fiasco | ; ; Debacle, Disaster, Failure | Triumph, Success ; ; |  | T:Blunder | ok
+Fickle | E:ficol | ; Changeable, Capricious ; Unreliable, Inconstant | Steadfast, Loyal ; ; | Fickleness | T:Fickle | ok
+Fidelity | L:fides | Loyalty, Devotion, Faithfulness ; ; | ; ; Infidelity, Betrayal |  | L:fides | ok
+Figurative | L:fingere | ; Metaphorical, Symbolic ; | ; Literal ; | Figure | L:fingere | low
+Filial | L:filius | ; Dutiful ; | ; Parental ; |  |  | ok
+Finesse | L:finis | Skill, Subtlety, Delicacy ; Tact ; Subterfuge | ; ; Clumsiness |  |  | ok
+Flagrant | L:flagrare | ; Glaring, Blatant, Egregious ; Shameless | Subtle, Covert ; ; | Flagrancy | T:Blatant | ok
+Flamboyant | L:flamma | Colorful, Vivacious ; Showy, Ornate ; Ostentatious, Garish | Restrained, Understated ; ; | Flamboyance | T:Ascetic | ok
+Gainsay | E:gegn, E:secgan | ; Deny, Contradict, Dispute ; | ; Affirm ; |  |  | low
+Gallant | F:galer | Chivalrous, Courtly ; Brave, Valiant ; | ; ; Cowardly | Gallantry |  | ok
+Galvanize | I:Galvani | Energize, Invigorate ; Stimulate, Spur ; | ; ; Dishearten, Dampen |  |  | low
+Gambit | I:gambetto | ; Ploy, Maneuver, Stratagem ; | ; ; |  |  | low
+Gamut | L:gamma, L:ut | ; Range, Spectrum, Scope ; | ; ; |  |  | ok
+Garble | A:ghirbal | ; Distort, Muddle, Jumble ; | ; Clarify ; | Garbled |  | low
+Gargantuan | F:Gargantua | ; Enormous, Colossal, Immense ; | ; Tiny, Minuscule ; |  |  | ok
+Garish | ?:garish | ; ; Gaudy, Tawdry, Loud | Subdued, Tasteful ; ; |  | T:Garish | low
+Garner | L:granum | ; Gather, Accumulate, Amass ; | ; Scatter ; |  |  | ok
+Garnish | E:warnijan | ; Decorate, Adorn, Trim ; | ; ; |  |  | ok
+Garrulous | L:garrire | ; Talkative, Voluble ; Long-winded, Prattling | Laconic ; Reticent, Taciturn ; | Garrulity | T:Garrulous | ok
+Gauche | F:gauche | ; Awkward, Tactless ; Clumsy, Boorish | Suave, Urbane ; ; | Gaucheness | T:Boorish | ok
+Gaudy | L:gaudium | ; Flashy ; Garish, Tawdry, Showy | Understated, Tasteful ; ; | Gaudiness | T:Garish | ok
+Genealogy | G:genos, G:logos | ; Lineage, Ancestry, Pedigree ; | ; ; | Genealogical | G:logos | ok
+Generality | L:genus | ; Universality, Breadth ; Vagueness | Specificity ; ; | Generalize | L:genus | ok
+Generosity | L:genus | Magnanimity, Munificence, Largesse ; Liberality ; | ; ; Stinginess, Parsimony | Generous | L:genus | ok
+Genial | L:gignere | Affable, Amiable, Cordial ; Friendly ; | ; ; Dour, Surly | Geniality | L:gignere | low
+Genteel | L:gens | ; Refined, Polite, Well-bred ; Affected, Pretentious | Coarse, Boorish ; ; | Gentility | L:gens | ok
+Gentry | L:gens | ; Upper class, Nobility ; | ; Commoners ; |  | L:gens | ok
+Germane | L:germanus | ; Relevant, Pertinent, Apposite ; | ; Irrelevant ; |  |  | low
+Gesticulation | L:gerere | ; Gesturing, Motioning ; | ; ; | Gesticulate |  | low
+Ghastly | E:gaestan | ; Dreadful, Horrible ; Grisly, Hideous | Pleasant, Lovely ; ; | Ghastliness |  | ok
+Gibe | ?:gibe | ; Taunt, Jeer ; Sneer, Barb | Compliment ; ; |  |  | low
+Giddy | E:gidig | ; Dizzy, Lightheaded ; Frivolous | Steady, Sober ; ; | Giddiness |  | ok
+Gingerly | L:gignere | ; Cautious, Careful, Delicate ; | ; ; Carelessly, Roughly |  | L:gignere | ok
+Gird | E:gyrdan | ; Encircle, Brace ; | ; Loosen ; |  | E:gyrdan | ok
+Gist | F:gesir | ; Essence, Substance ; | ; ; |  |  | ok
+Glacial | L:glacies | ; Icy, Frigid, Freezing ; Frosty | Warm, Balmy ; ; | Glacier |  | ok
+Glib | D:glibberig | ; Fluent, Smooth-talking ; Superficial, Insincere, Slick | Hesitant, Halting ; ; | Glibness | T:Facetious | ok
+Gloaming | E:glom | ; Twilight, Dusk ; | ; Dawn ; |  |  | ok
+Gloat | N:glotta | ; Revel ; Exult, Crow, Smirk | ; ; |  |  | ok
+Glut | L:glutire | ; Surfeit, Oversupply ; Excess | ; Shortage ; Dearth |  | L:glutire | ok
+Gluttonous | L:glutire | ; Greedy, Voracious ; Ravenous, Piggish | Abstemious, Temperate ; ; | Glutton, Gluttony | L:glutire | low
+Gnarled | ?:gnarl | ; Twisted, Knotty, Weathered ; | Smooth ; ; |  |  | low
+Goad | E:gad | ; Prod, Spur, Prompt ; Provoke, Needle | Restrain, Deter ; ; |  |  | ok
+Grandeur | L:grandis | Splendor, Majesty, Magnificence ; Stateliness ; | ; ; Pomposity | Grand | L:grandis | ok
+Habituate | L:habere | ; Accustom, Acclimatize ; | ; Estrange ; | Habit, Habitual | L:habere | ok
+Hackneyed | E:Hackney | ; Trite, Overused, Stale ; Banal, Clichéd | Original, Novel ; ; |  | T:Asinine | low
+Haggard | F:hagard | ; Gaunt, Drawn, Careworn ; Wan | Robust, Hale ; ; |  | T:Emaciated | ok
+Halcyon | G:alkyon | Idyllic, Peaceful, Golden ; Calm, Tranquil ; | ; ; Turbulent |  |  | ok
+Hale | E:hal | Healthy, Robust ; Vigorous ; | ; ; Frail, Infirm |  | E:hal | ok
+Hallow | E:hal | Sanctify, Consecrate ; Revere ; | ; ; Desecrate, Profane | Hallowed | E:hal | ok
+Hamper | F:hanap | ; Hinder, Impede, Obstruct ; Cripple | Facilitate, Aid ; ; |  | T:Fetter | ok
+Haphazard | N:happ, A:az-zahr | ; Random, Unplanned ; Careless, Slapdash | Methodical, Systematic ; ; | Haphazardly | A:az-zahr | low
+Hapless | N:happ | ; Unfortunate, Luckless ; Wretched, Ill-fated | Fortunate, Lucky ; ; | Hap |  | low
+Harangue | E:hring | ; Lecture, Address ; Tirade, Diatribe | ; ; |  | T:Bemoan | ok
+Harbinger | E:heriberg | ; Forerunner, Herald, Precursor ; Omen | ; ; |  | T:Harbinger | low
+Harrowing | E:hergian | ; Distressing ; Agonizing, Traumatic, Gruesome | Soothing, Pleasant ; ; | Harrow | T:Harrowing | low
+Haughty | L:altus | ; Proud ; Arrogant, Disdainful, Supercilious | Humble, Modest ; ; | Haughtiness | T:Cavalier | ok
+Havoc | F:havot | ; Devastation, Chaos ; Mayhem, Destruction | Order ; ; |  |  | ok
+Hazardous | A:az-zahr | ; Risky, Perilous ; Dangerous, Precarious | Safe, Secure ; ; | Hazard | A:az-zahr | low
+Headstrong | E:heafod, E:strang | ; Willful, Determined ; Stubborn, Obstinate | Docile, Compliant ; ; |  |  | low
+Heartrending | E:heorte, E:rendan | Poignant ; Moving ; Harrowing, Anguishing | ; ; |  | T:Harrowing | low
+Heckle | E:hakila | ; Interrupt, Taunt ; Jeer, Badger | ; ; | Heckler |  | ok
+Hedonism | G:hedone | ; Pleasure-seeking ; Self-indulgence, Dissipation | Asceticism, Abstinence ; ; | Hedonist, Hedonistic |  | low
+Heed | E:hedan | Attend ; Notice, Mind ; | ; ; Disregard, Neglect | Heedful |  | ok
+Hegemony | G:hegeisthai | ; Dominance, Supremacy, Ascendancy ; Domination | Autonomy, Independence ; ; | Hegemonic |  | ok
+Heinous | E:hatian | ; ; Atrocious, Abominable, Monstrous | Laudable, Commendable ; ; | Heinousness | T:Heinous | low
+Heretic | G:hairein | ; Dissenter, Nonconformist ; Apostate, Blasphemer | Believer ; Orthodox ; | Heresy, Heretical | T:Apostate | ok
+Hermetic | G:Hermes | ; Airtight, Sealed, Esoteric ; | ; Open ; | Hermetically |  | ok
+Heterodox | G:heteros, G:doxa | ; Unorthodox, Nonconformist ; Heretical | Orthodox, Conventional ; ; | Heterodoxy |  | ok
+Heterogeneous | G:heteros, G:genos | ; Diverse, Mixed, Varied ; | Homogeneous, Uniform ; ; | Heterogeneity | G:genos | ok
+Heyday | E:heah, E:daeg | ; Prime, Zenith, Peak ; | ; Decline ; |  | T:Acme | low
+Hiatus | L:hiare | ; Gap, Pause, Interlude ; | ; Continuity ; |  |  | ok
+Hidebound | E:hyd, E:bindan | ; Conservative, Rigid ; Narrow-minded, Reactionary | Open-minded, Progressive ; ; |  |  | low
+Hierarchy | G:hieros, G:arche | ; Ranking, Pecking order ; | ; Equality ; | Hierarchical | G:arche | ok
+Hilarity | G:hilaros | Merriment, Mirth, Glee ; Amusement ; | ; ; Gloom, Solemnity | Hilarious |  | ok
+Hindrance | E:hindrian | ; Obstacle, Impediment, Obstruction ; Encumbrance | Aid, Help ; ; | Hinder |  | low
+Hinterland | De:hinter | ; Backcountry, Outback ; | ; Metropolis ; |  |  | ok
+Histrionic | L:histrio | ; Theatrical, Melodramatic ; Overwrought, Affected | Restrained, Understated ; ; | Histrionics |  | ok
+Hoard | E:hord | ; Stockpile, Store, Cache ; Amass | ; Share ; Squander |  |  | ok
+Hoary | E:har | ; Gray, Aged, Venerable ; Stale | Fresh, Young ; ; |  |  | low
+Hoax | L:iocus | ; Prank, Ruse ; Deception, Sham, Swindle | ; ; |  | L:iocus | ok
+Holistic | G:holos | ; Comprehensive, Integrated ; | ; Piecemeal, Fragmentary ; | Holism |  | low
+Homage | L:homo | Tribute, Reverence ; Respect ; | ; ; Disrespect |  | T:Homage | ok
+Homily | G:homilos | ; Sermon, Lecture ; Platitude | ; ; | Homiletic | T:Cliche | ok
+Homogeneous | G:homos, G:genos | ; Uniform, Alike, Consistent ; | Heterogeneous, Diverse ; ; | Homogeneity | G:genos | ok
+Hortatory | L:hortari | ; Exhortatory, Urging, Encouraging ; | ; ; | Exhort |  | low
+Hospitable | L:hospes | Welcoming, Gracious, Cordial ; Friendly ; | ; ; Inhospitable, Hostile | Hospitality |  | ok
+Hostility | L:hostis | ; Antagonism, Animosity ; Enmity, Malice | Amity, Friendliness ; ; | Hostile |  | ok
+Hubris | G:hybris | ; ; Arrogance, Conceit, Insolence | Humility, Modesty ; ; | Hubristic | T:Arrogance | ok
+Humility | L:humus | Modesty, Meekness ; Self-effacement ; | ; ; Arrogance, Hubris | Humble | T:Arrogance | ok
+Hyperbole | G:hyper-, G:ballein | ; Exaggeration, Overstatement ; | ; Understatement ; | Hyperbolic |  | ok
+Hypocrisy | G:hypo-, G:krinein | ; ; Insincerity, Duplicity, Cant | Sincerity, Integrity ; ; | Hypocrite, Hypocritical |  | ok
+Hypothetical | G:hypo-, G:tithenai | ; Theoretical, Conjectural, Supposed ; | ; Actual, Factual ; | Hypothesis | G:tithenai | low
+Idiosyncrasy | G:idios, G:syn-, G:krasis | ; Quirk, Peculiarity ; Eccentricity | ; Norm ; | Idiosyncratic |  | ok
+Ignominious | L:in-, L:nomen | ; ; Disgraceful, Shameful, Humiliating | Honorable, Glorious ; ; | Ignominy | L:nomen | ok
+Immutable | L:in-, L:mutare | ; Unchangeable, Fixed, Permanent ; Rigid | Mutable, Fluid ; ; | Immutability |  | ok
+Impartiality | L:in-, L:pars | Fairness, Objectivity ; Neutrality ; | ; ; Bias, Partiality | Impartial | T:Impartiality | low
+Impeccable | L:in-, L:peccare | Flawless, Faultless, Immaculate ; ; | ; ; Flawed, Faulty | Impeccably | L:peccare | ok
+Impecunious | L:in-, L:pecunia | ; Penniless, Destitute ; Needy | Affluent, Wealthy ; ; | Impecuniousness |  | ok
+Imperative | L:in-, L:parare | ; Essential, Vital, Pressing ; | ; Optional, Dispensable ; | Imperatively |  | low
+Impervious | L:in-, L:per-, L:via | ; Impenetrable, Impermeable ; Unresponsive | Receptive, Permeable ; ; | Imperviousness | L:via | ok
+Impetuous | L:in-, L:petere | ; Hasty, Impulsive, Spontaneous ; Rash, Reckless | Cautious, Deliberate ; ; | Impetuosity | L:petere | ok
+Implacable | L:in-, L:placare | ; Unyielding, Relentless ; Merciless, Unforgiving | Lenient, Forgiving ; ; | Implacability | T:Implacable | ok
+Imponderable | L:in-, L:pondus | ; Unquantifiable, Immeasurable ; | ; Measurable ; | Imponderability |  | low
+Inadvertent | L:in-, L:ad-, L:vertere | ; Unintentional, Accidental ; Careless | Deliberate, Intentional ; ; | Inadvertence | L:vertere | low
+Inalienable | L:in-, L:alienus | ; Unassailable, Absolute, Intrinsic ; | ; Transferable ; | Inalienability | L:alienus | ok
+Inane | L:inanis | ; Silly, Vacuous ; Fatuous, Asinine | Sensible, Meaningful ; ; | Inanity | T:Asinine | ok
+Incipient | L:in-, L:capere | ; Nascent, Budding, Emerging ; | ; Advanced, Developed ; | Incipience | L:capere | low
+Incisive | L:in-, L:caedere | Sharp, Penetrating, Perceptive ; Acute ; Cutting | ; ; Obtuse, Vague | Incisiveness |  | low
+Inculcate | L:in-, L:calx | ; Instill, Implant, Impress ; Indoctrinate | ; ; | Inculcation | L:calx | ok
+Jaded | N:jalda | ; Weary, Blasé ; Cynical, Jaundiced | Enthusiastic, Fresh ; ; |  | T:Blase | ok
+Jargon | F:gargon | ; Terminology, Lingo ; Gobbledygook | ; Plain language ; |  |  | ok
+Jaundiced | F:jaune | ; Biased, Prejudiced ; Cynical, Bitter, Embittered | Impartial, Objective ; ; |  | T:Blase | low
+Jaunty | L:gens | Cheerful, Sprightly ; Lively, Breezy ; | ; ; Sluggish, Dejected |  | L:gens | low
+Jejune | L:ieiunus | ; Naive, Simplistic ; Insipid, Puerile, Juvenile | Sophisticated, Substantial ; ; | Jejuneness | T:Jejune | ok
+Jeopardize | L:iocus, L:partire | ; Endanger, Imperil, Risk ; Compromise | Safeguard, Protect ; ; | Jeopardy | L:iocus | low
+Jeremiad | He:Yirmeyahu | ; Lament, Complaint ; Tirade, Diatribe | ; ; |  | T:Bemoan | low
+Jettison | L:jactare | ; Discard, Dump, Eject ; | Retain, Keep ; ; |  |  | low
+Jingoism | ?:jingo | ; Chauvinism, Nationalism ; Warmongering | ; Pacifism ; | Jingoistic |  | low
+Jocular | L:iocus | ; Joking, Humorous, Playful ; Flippant | Solemn, Serious ; ; | Jocularity | L:iocus | ok
+Jovial | L:Iuppiter | Cheerful, Genial, Convivial ; Good-humored ; | ; ; Morose, Glum | Joviality | T:Bathetic | ok
+Jubilation | L:jubilare | Elation, Exultation, Triumph ; Rejoicing ; | ; ; Dejection, Gloom | Jubilant |  | ok
+Judicious | L:jus, L:dicere | Prudent, Sensible, Discerning ; Wise ; | ; ; Imprudent, Rash | Judiciously | L:dicere | part
+Juggernaut | Sk:jagannatha | ; Colossus, Steamroller ; | ; ; |  |  | ok
+Juncture | L:jungere | ; Point, Moment, Crossroads ; | ; ; | Junction | L:jungere | low
+Junta | L:jungere | ; Council, Committee ; Cabal, Clique | ; ; |  | L:jungere | low
+Juxtaposition | L:jungere, L:ponere | ; Side-by-side placement, Contrast ; | ; ; | Juxtapose | L:jungere | part
+Kaleidoscopic | G:kalos, G:eidos, G:skopein | ; Multicolored, Variegated ; Chaotic | Uniform, Monochrome ; ; | Kaleidoscope | T:Kaleidoscopic | low
+Kleptocracy | G:kleptein, G:kratos | ; ; Corrupt rule, Graft, Plunder | Meritocracy, Democracy ; ; |  | G:kratos | low
+Kowtow | C:koutou | ; Bow, Defer ; Grovel, Fawn, Toady | ; Defy ; |  | T:Kowtow | ok
+Kudos | G:kydos | Acclaim, Accolade, Praise ; Credit ; | ; ; Opprobrium |  | T:Kudos | ok
+Labyrinthine | G:labyrinthos | ; Intricate, Convoluted, Tortuous ; Bewildering | Straightforward, Simple ; ; | Labyrinth |  | ok
+Lacerate | L:lacer | ; Tear, Gash, Rend ; Mangle | ; Heal, Mend ; | Laceration |  | ok
+Lachrymose | L:lacrima | ; Tearful, Weeping ; Maudlin, Mournful | Cheerful, Jovial ; ; | Lachrymal | T:Bathetic | ok
+Lackadaisical | ?:lackaday | ; Listless, Languid, Careless ; Apathetic, Indolent | Diligent, Energetic ; ; | Lackadaisically |  | low
+Lackey | F:laquais | ; Attendant, Footman ; Minion, Flunkey, Toady | ; ; |  | T:Kowtow | ok
+Laconic | G:Lakon | Concise, Succinct, Terse ; Brief ; | ; ; Verbose, Wordy |  | T:Garrulous | ok
+Lacuna | L:lacus | ; Gap, Void, Omission ; | ; ; | Lacunae |  | low
+Laggard | ?:lag | ; Straggler ; Slacker, Dawdler | Pioneer, Leader ; ; | Lag |  | low
+Laity | G:laos | ; Laypeople, Congregation ; | Clergy ; ; | Lay |  | ok
+Lambaste | E:lam, E:baste | ; Criticize, Censure ; Berate, Excoriate | Praise, Laud ; ; |  | T:Berate | low
+Lament | L:lamentum | ; Mourn, Grieve, Bewail ; | Rejoice, Celebrate ; ; | Lamentable, Lamentation | T:Bemoan | ok
+Lampoon | F:lamper | ; Satirize, Parody, Spoof ; Ridicule, Mock | Praise, Flatter ; ; |  |  | ok
+Languid | L:languere | ; Listless, Leisurely, Unhurried ; Lethargic, Sluggish | Energetic, Vigorous ; ; | Languor | L:languere | ok
+Languish | L:languere | ; Wilt, Wither, Flag ; Pine, Decline | Flourish, Thrive ; ; |  | L:languere | ok
+Larcenous | L:latro | ; Thieving ; Dishonest, Light-fingered | Honest ; ; | Larceny |  | low
+Largesse | L:largus | Generosity, Munificence, Bounty ; Liberality ; | ; ; |  | T:Largesse | ok
+Lascivious | L:lascivus | ; ; Lewd, Lustful, Licentious | Chaste, Modest ; ; | Lasciviousness | T:Lascivious | ok
+Lassitude | L:lassus | ; Weariness, Fatigue ; Lethargy, Languor | Vigor, Energy ; ; |  | T:Alacrity | ok
+Latent | L:latere | ; Dormant, Hidden, Potential ; | Manifest, Overt ; ; | Latency |  | ok
+Latitude | L:latus | ; Scope, Freedom, Leeway ; | ; Restriction ; |  |  | ok
+Laud | L:laus | Extol, Exalt, Commend ; Praise ; Flatter | ; Criticize ; Censure, Berate, Disparage | Laudable, Laudatory | T:Laud | ok
+Lavish | F:lavasse | Generous, Bountiful ; Abundant ; Extravagant, Profligate | Frugal, Thrifty ; ; | Lavishness | T:Lavish | ok
+Lax | L:laxus | ; Slack, Loose ; Negligent, Remiss, Careless | Strict, Rigorous ; ; | Laxity | T:Lax | ok
+Leery | E:leer | ; Wary, Suspicious, Cautious ; Distrustful | Trusting ; ; |  |  | low
+Legerdemain | L:levis, L:manus | ; Sleight of hand ; Trickery, Deception | ; ; |  | L:manus | low
+Leisurely | L:licere | ; Unhurried, Relaxed ; Dawdling | Hasty, Rushed ; ; | Leisure | L:licere | low
+Leitmotif | De:leiten, De:Motiv | ; Recurring theme, Refrain ; | ; ; |  |  | ok
+Leniency | L:lenis | Mercy, Clemency, Forbearance ; Tolerance ; Laxity | Severity, Strictness ; ; | Lenient |  | ok
+Lethargic | G:lethe, G:argos | ; Sluggish, Torpid, Listless ; | Energetic, Spirited ; ; | Lethargy | T:Buoyant | ok
+Levity | L:levis | ; Lightness, Humor ; Frivolity, Flippancy | Gravity, Solemnity ; ; |  | L:levis | ok
+Lewd | E:laewede | ; ; Obscene, Indecent, Lascivious | Chaste, Decent ; ; | Lewdness | T:Lascivious | ok
+Lexicon | G:legein | ; Vocabulary, Dictionary, Glossary ; | ; ; | Lexical | G:legein | ok
+Liaison | L:ligare | ; Link, Connection, Intermediary ; | ; ; | Liaise |  | ok
+Libertarian | L:liber | ; Freethinker, Individualist ; | ; Authoritarian ; | Libertarianism, Liberty | L:liber | ok
+Libertine | L:liber | ; Rake, Hedonist ; Debauchee, Roue | ; ; | Libertinism | L:liber | ok
+Licentious | L:licere | ; ; Dissolute, Promiscuous, Debauched | Chaste, Virtuous ; ; | Licentiousness | L:licere | ok
+Liminal | L:limen | ; Threshold, Transitional ; | ; ; | Liminality |  | ok
+Lithe | E:lithe | Agile, Graceful, Supple ; Flexible ; | ; ; Stiff, Rigid | Litheness |  | ok
+Machination | L:machina | ; Scheme, Plot, Intrigue ; Conspiracy, Subterfuge | ; ; | Machinate |  | ok
+Magnanimous | L:magnus, L:animus | Generous, Noble, Big-hearted ; Forgiving ; | ; ; Petty, Spiteful | Magnanimity | L:animus | ok
+Malaise | L:malus, F:aise | ; Unease, Discomfort ; Lassitude, Languor | Well-being, Vigor ; ; |  | L:malus | ok
+Malcontent | L:malus, F:content | ; Dissenter, Agitator ; Grumbler, Troublemaker | ; ; |  | L:malus | ok
+Malediction | L:malus, L:dicere | ; Curse ; Imprecation, Anathema | Benediction, Blessing ; ; |  | L:malus | ok
+Malefactor | L:malus, L:facere | ; Offender, Criminal ; Culprit, Miscreant | Benefactor ; ; |  | L:malus | ok
+Malevolent | L:malus, L:velle | ; ; Spiteful, Malicious, Baleful | Benevolent, Benign ; ; | Malevolence | L:malus | ok
+Malign | L:malus, L:genus | ; Defame ; Slander, Traduce, Vilify | Praise, Laud, Benign ; ; |  | L:malus | ok
+Malleable | L:malleus | Adaptable, Pliant ; Pliable, Flexible, Ductile ; | ; ; Rigid, Intractable | Malleability | T:Malleable | ok
+Manifest | L:manus, L:fendere | ; Evident, Obvious, Apparent ; | ; Latent, Hidden ; | Manifestation | L:manus | ok
+Manifesto | L:manus, L:fendere | ; Declaration, Proclamation, Platform ; | ; ; |  | L:manus | part
+Manipulative | L:manus, L:plere | ; Controlling, Scheming ; Devious, Calculating | Straightforward, Sincere ; ; | Manipulate, Manipulation | L:manus | low
+Marginalization | L:margo | ; Sidelining, Exclusion ; Disenfranchisement | Inclusion, Integration ; ; | Marginalize, Marginal |  | low
+Martinet | F:Martinet | ; Disciplinarian, Stickler ; Tyrant | ; ; |  |  | low
+Maudlin | L:Magdalena | ; Sentimental, Tearful ; Mawkish, Overemotional | Stoic, Unsentimental ; ; |  | T:Bathetic | ok
+Maverick | E:Maverick | ; Nonconformist, Individualist ; Renegade | Conformist ; ; |  |  | low
+Mawkish | E:mathek | ; Sentimental ; Maudlin, Cloying, Saccharine | ; ; |  | T:Bathetic | low
+Maximization | L:magnus | ; Optimization, Enhancement ; | Minimization ; ; | Maximize, Maximum |  | low
+Meager | L:macer | ; Scanty, Sparse, Slight ; Paltry, Skimpy | Ample, Abundant ; ; | Meagerness | T:Bountiful | ok
+Meander | G:Maiandros | ; Wander, Ramble, Wind ; Drift | ; Hasten ; |  |  | ok
+Mellifluous | L:mel, L:fluere | Melodious, Dulcet, Honeyed ; Smooth ; | ; ; Strident, Discordant | Mellifluence | L:fluere | ok
+Mendacious | L:mendax | ; ; Lying, Deceitful, Untruthful | Truthful, Veracious ; ; | Mendacity |  | ok
+Mendicant | L:mendicus | ; Beggar, Supplicant ; Panhandler | ; ; | Mendicancy |  | ok
+Mercenary | L:merces | ; Hireling ; Venal, Grasping, Money-minded | Altruistic ; ; |  | T:Mercenary | ok
+Mercurial | L:Mercurius | ; Volatile, Changeable ; Fickle, Capricious, Erratic | Steady, Constant ; ; |  | T:Fickle | ok
+Meretricious | L:merere | ; Showy ; Tawdry, Gaudy, Specious | Genuine, Authentic ; ; |  | T:Garish | ok
+Metamorphosis | G:meta-, G:morphe | ; Transformation, Transmutation ; | ; Stagnation ; | Metamorphose | G:morphe | ok
+Meticulous | L:metus | Careful, Painstaking, Scrupulous ; Thorough ; Fussy | ; Careless ; | Meticulousness | T:Fastidious | ok
+Mettle | G:metallon | Courage, Spirit, Fortitude ; Pluck ; | ; ; Cowardice |  |  | low
+Miasma | G:miainein | ; Vapor ; Stench, Contamination | Purity ; ; |  |  | ok
+Milieu | L:medius, L:locus | ; Environment, Setting, Surroundings ; | ; ; |  |  | ok
+Minutiae | L:minuere | ; Details, Particulars ; Trivia | ; Essentials ; | Minute |  | low
+Misanthrope | G:misein, G:anthropos | ; ; Cynic, Recluse | Philanthropist ; ; | Misanthropy | G:anthropos | ok
+Miscreant | L:credere | ; Wrongdoer, Reprobate ; Villain, Scoundrel | ; ; |  |  | ok
+Mitigate | L:mitis, L:agere | Soothe, Assuage ; Alleviate, Moderate, Lessen ; | ; ; Aggravate, Exacerbate | Mitigation, Unmitigated | L:agere | part
+Mnemonic | G:mnemon | ; Memory aid ; | ; ; | Mnemonics |  | ok
+Mollify | L:mollis, L:facere | ; Appease, Pacify, Placate ; | ; ; Provoke, Enrage | Mollification | T:Appease | part
+Moratorium | L:morari | ; Suspension, Postponement, Halt ; | ; Resumption ; |  |  | ok
+Nadir | A:nazir | ; Low point, Bottom ; Rock bottom | Zenith, Apex ; ; |  | T:Acme | ok
+Naivety | L:nasci | ; Innocence, Simplicity ; Gullibility, Credulity | Sophistication, Worldliness ; ; | Naive | L:nasci | low
+Narcissism | G:Narkissos | ; Self-love ; Vanity, Egotism, Conceit | Modesty, Humility ; ; | Narcissist | T:Arrogance | low
+Nascent | L:nasci | ; Emerging, Budding, Incipient ; | ; Mature, Established ; | Nascence | L:nasci | ok
+Nauseam | G:naus | ; Endlessly, Ad infinitum ; Tediously | ; ; |  |  | low
+Nebulous | L:nebula | ; Vague, Hazy, Indistinct ; Amorphous | Clear, Distinct ; ; | Nebula |  | ok
+Necessitate | L:ne-, L:cedere | ; Require, Entail, Demand ; | ; Obviate ; | Necessity | L:cedere | ok
+Nefarious | L:ne-, L:fas | ; ; Wicked, Villainous, Heinous | Virtuous, Honorable ; ; | Nefariousness | T:Heinous | ok
+Negate | L:negare | ; Nullify, Invalidate, Contradict ; | Affirm, Validate ; ; | Negation | L:negare | ok
+Negligible | L:ne-, L:legere | ; Trivial, Insignificant, Minor ; Paltry | Significant, Substantial ; ; | Negligibility | L:legere | ok
+Nemesis | G:nemein | ; Rival, Arch-enemy ; Bane, Downfall | ; ; |  | G:nemein | ok
+Neologism | G:neos, G:logos | ; Coinage, New word ; | ; Archaism ; | Neologize | G:logos | part
+Neophyte | G:neos, G:phyton | ; Novice, Beginner, Tyro ; Greenhorn | Veteran, Expert ; ; |  |  | ok
+Nepotism | L:nepos | ; Favoritism ; Cronyism, Partiality | Meritocracy ; ; | Nepotist |  | ok
+Nether | E:nithera | ; Lower, Under ; | Upper ; ; |  |  | ok
+Nettle | E:netele | ; Irritate, Vex, Provoke ; Needle | Soothe, Placate ; ; |  | T:Nettle | ok
+Nexus | L:nectere | ; Link, Connection, Bond ; | ; ; |  |  | ok
+Niggardly | N:hnoggr | ; Frugal ; Stingy, Miserly, Tightfisted | Generous, Liberal ; ; |  |  | low
+Nihilism | L:nihil | ; Skepticism ; Negation, Defeatism | ; ; | Nihilist | T:Nihilism | ok
+Nimble | E:niman | Agile, Spry, Deft ; Quick ; | ; ; Clumsy, Lumbering | Nimbleness |  | ok
+Nirvana | Sk:nirvana | Bliss, Paradise ; Enlightenment ; | ; ; |  |  | low
+Nocturnal | L:nox | ; Nightly, Nighttime ; | ; Diurnal ; | Nocturne |  | ok
+Noisome | L:odium | ; ; Noxious, Fetid, Offensive | Fragrant, Wholesome ; ; |  | L:odium | ok
+Nomadic | G:nemein | ; Wandering, Itinerant, Roving ; | ; Settled, Sedentary ; | Nomad | G:nemein | low
+Nomenclature | L:nomen, L:calare | ; Terminology, Naming system ; | ; ; |  | L:nomen | ok
+Nonchalant | L:calere | ; Casual, Unconcerned, Indifferent ; Blase, Apathetic | Anxious, Concerned ; ; | Nonchalance | T:Blase | ok
+Noncommittal | L:mittere | ; Evasive, Vague, Guarded ; Equivocal | Decisive, Explicit ; ; |  | L:mittere | low
+Nondescript | L:de-, L:scribere | ; Ordinary, Featureless ; Bland, Drab | Distinctive, Striking ; ; |  | L:scribere | ok
+Nonentity | L:esse | ; ; Cipher, Nobody, Lightweight | ; ; |  | L:esse | low
+Nonplus | L:plus | ; Baffle, Bewilder, Perplex ; | ; ; |  | T:Baffle | ok
+Normative | L:norma | ; Prescriptive, Standard-setting ; | ; Descriptive ; | Norm |  | ok
+Nostalgia | G:nostos, G:algos | Wistfulness, Reminiscence ; Longing ; Sentimentality | ; ; | Nostalgic |  | ok
+Notoriety | L:noscere | ; Infamy ; Disrepute | Renown, Fame ; ; | Notorious | L:noscere | ok
+Novelty | L:novus | ; Newness, Innovation ; Gimmick | ; Convention ; | Novel | L:novus | ok
+Novice | L:novus | ; Beginner, Learner, Tyro ; Greenhorn | Expert, Veteran ; ; | Novitiate | L:novus | ok
+Noxious | L:nocere | ; ; Harmful, Toxic, Pernicious | Beneficial, Wholesome ; ; | Noxiousness | L:nocere | ok
+Nuance | L:nubes | ; Subtlety, Shade, Gradation ; | ; ; | Nuanced |  | ok
+Nugatory | L:nugae | ; Trivial, Inconsequential, Void ; Futile, Worthless | Valid, Significant ; ; |  |  | low
+Obdurate | L:ob-, L:durus | ; Stubborn, Unyielding ; Hard-hearted, Intransigent | Compliant, Yielding ; ; | Obduracy |  | ok
+Obeisance | L:ob-, L:audire | Deference, Homage ; Bow, Salaam ; Servility | ; ; Defiance |  | T:Homage | ok
+Obfuscate | L:ob-, L:fuscus | ; Confuse, Cloud ; Obscure, Muddy | Clarify, Elucidate ; ; | Obfuscation | T:Demystify | ok
+Objectivity | L:ob-, L:jacere | Impartiality, Detachment, Fairness ; Neutrality ; | ; ; Bias, Subjectivity | Objective | T:Impartiality | low
+Oblivion | L:oblivisci | ; Obscurity, Forgetfulness ; Nothingness | Fame, Remembrance ; ; | Oblivious |  | ok
+Obloquy | L:ob-, L:loqui | ; ; Censure, Calumny, Disgrace | Praise, Honor ; ; |  | L:loqui | ok
+Obnoxious | L:ob-, L:nocere | ; Objectionable ; Offensive, Odious, Repugnant | Pleasant, Agreeable ; ; | Obnoxiousness | L:nocere | low
+Obsequious | L:ob-, L:sequi | ; ; Servile, Fawning, Sycophantic | Assertive, Independent ; ; | Obsequiousness | T:Adulation | ok
+Obsolescence | L:obsolescere | ; Outdatedness, Decline ; | ; ; | Obsolete |  | ok
+Obstinate | L:ob-, L:stare | ; Stubborn, Headstrong ; Mulish, Pigheaded, Intransigent | Flexible, Yielding ; ; | Obstinacy | L:stare | ok
+Obstreperous | L:ob-, L:strepere | ; Noisy, Unruly ; Rowdy, Boisterous, Clamorous | Docile, Quiet ; ; |  | T:Boisterous | ok
+Obviate | L:ob-, L:via | ; Prevent, Preclude, Avert ; | ; Necessitate ; |  | L:via | low
+Occult | L:ob-, L:celare | ; Hidden, Secret, Esoteric ; Mystical | Overt, Known ; ; | Occultism |  | low
+Odious | L:odium | ; ; Repugnant, Detestable, Loathsome | Pleasant, Admirable ; ; | Odiousness | L:odium | ok
+Odium | L:odium | ; ; Opprobrium, Hatred, Contempt | Esteem, Admiration ; ; |  | L:odium | low
+Officious | L:opus, L:facere | ; ; Meddlesome, Intrusive, Overzealous | Reserved, Unobtrusive ; ; | Officiousness |  | part
+Ogle | D:ogen | ; Stare, Gaze ; Leer, Gawk | ; Glance ; |  |  | ok
+Oligarchy | G:oligos, G:arche | ; Rule by few, Elite rule ; | ; Democracy ; | Oligarch | G:arche | ok
+Ominous | L:omen | ; Portentous, Foreboding ; Menacing, Sinister, Threatening | Auspicious, Propitious ; ; | Omen |  | ok
+Omnipotent | L:omnis, L:potens | Almighty, All-powerful ; ; | ; Impotent ; | Omnipotence | L:omnis | ok
+Omniscient | L:omnis, L:scire | ; All-knowing ; | ; Ignorant ; | Omniscience | L:omnis | ok
+Onerous | L:onus | ; Burdensome, Taxing ; Oppressive, Arduous | Easy, Light ; ; | Onerousness | L:onus | low
+Onus | L:onus | ; Burden, Responsibility ; Liability | ; ; |  | L:onus | ok
+Opaque | L:opacus | ; Cloudy, Impenetrable ; Murky, Obscure | Transparent, Clear ; ; | Opacity |  | ok
+Opportunism | L:ob-, L:portus | ; Expediency ; Exploitation, Unscrupulousness | Principle, Integrity ; ; | Opportunist, Opportune |  | low
+Opprobrium | L:ob-, L:probrum | ; ; Disgrace, Ignominy, Infamy | Honor, Esteem ; ; |  | T:Kudos | ok
+Optimum | L:optimus | ; Best, Ideal, Peak ; | ; ; | Optimal, Optimize |  | ok
+Opulence | L:ops | Luxury, Wealth, Affluence ; Abundance ; | ; ; | Opulent | T:Opulence | low
+Oracular | L:orare | ; Prophetic, Cryptic ; Ambiguous | ; ; | Oracle | L:orare | low
+Oratory | L:orare | Eloquence, Rhetoric ; Public speaking ; Bombast | ; ; | Orator | L:orare | low
+Ordain | L:ordo | ; Decree, Appoint, Consecrate ; | ; Annul ; | Ordination | L:ordo | ok
+Ordeal | E:ordal | ; Trial, Test ; Tribulation, Nightmare | ; ; |  |  | ok
+Ordinance | L:ordo | ; Decree, Regulation, Statute ; | ; ; |  | L:ordo | ok
+Ornate | L:ornare | ; Elaborate, Decorated ; Florid, Fussy | Plain, Austere ; ; | Ornamentation | T:Ascetic | ok
+Oscillate | L:oscillum | ; Swing, Vacillate, Fluctuate ; Waver | ; Stabilize ; | Oscillation | T:Oscillate | ok
+Ostensible | L:ob-, L:tendere | ; Apparent, Seeming, Professed ; | ; Actual, Genuine ; | Ostensibly | L:tendere | ok
+Ostentatious | L:ob-, L:tendere | ; Showy, Flamboyant ; Pretentious, Flashy, Garish | Modest, Unassuming ; ; | Ostentation | L:tendere | ok
+Ostracize | G:ostrakon | ; Exclude, Banish, Shun ; Blackball | Welcome, Embrace ; ; | Ostracism |  | ok
+Oust | L:ob-, L:stare | ; Expel, Remove, Dislodge ; | ; Install ; |  | L:stare | low
+Outlandish | E:utlendisc | ; Unconventional, Exotic ; Bizarre, Freakish | Ordinary, Conventional ; ; |  | T:Eccentric | ok
+Palpable | L:palpare | ; Tangible, Evident, Perceptible ; | ; Imperceptible ; | Palpably |  | ok
+Panacea | G:pan, G:akos | Cure-all, Elixir ; Remedy ; | ; ; |  |  | ok
+Paradigm | G:para-, G:deiknynai | ; Model, Pattern, Exemplar ; | ; ; | Paradigmatic |  | ok
+Parity | L:par | ; Equality, Equivalence, Evenness ; | ; Disparity ; | Par, Disparity |  | low
+Parsimony | L:parcere | ; Frugality, Thrift ; Stinginess, Miserliness | Generosity, Largesse ; ; | Parsimonious | T:Largesse | ok
+Patronage | L:pater | ; Sponsorship, Support, Backing ; Favoritism | ; ; | Patron | T:Aegis | ok
+Paucity | L:paucus | ; Scarcity, Dearth, Shortage ; Meagerness | Abundance, Plethora ; ; |  | T:Dearth | ok
+Peccadillo | L:peccare | ; Minor fault, Misdemeanor, Foible ; | ; ; |  | L:peccare | ok
+Pedantic | I:pedante | ; Scholastic, Bookish ; Dogmatic, Nitpicking, Fussy | Flexible, Broad-minded ; ; | Pedant, Pedantry |  | low
+Penchant | L:pendere | ; Inclination, Fondness, Liking ; | ; Aversion, Dislike ; |  | L:pendere | ok
+Penitent | L:poena | ; Contrite, Repentant, Remorseful ; | ; Unrepentant ; | Penitence |  | ok
+Pensive | L:pendere | ; Thoughtful, Reflective, Contemplative ; Brooding | ; Carefree ; | Pensiveness | L:pendere | ok
+Penury | L:penuria | ; Poverty, Destitution ; Privation | Affluence, Opulence ; ; |  | T:Opulence | ok
+Perfidious | L:per-, L:fides | ; ; Treacherous, Disloyal, Duplicitous | Faithful, Loyal ; ; | Perfidy | L:fides | ok
+Perfunctory | L:per-, L:fungi | ; Routine, Cursory ; Superficial, Careless, Mechanical | Thorough, Conscientious ; ; | Perfunctoriness | L:fungi | ok
+Peripatetic | G:peri-, G:pateo | ; Itinerant, Roving, Wandering ; | ; Sedentary, Stationary ; |  |  | ok
+Pernicious | L:per-, L:nex | ; ; Destructive, Deleterious, Insidious | Beneficial, Salutary ; ; | Perniciousness | T:Deleterious | ok
+Perspicacity | L:per-, L:specere | Acumen, Insight, Shrewdness ; Discernment ; | ; ; Obtuseness | Perspicacious | L:specere | low
+Pertinent | L:per-, L:tenere | ; Relevant, Germane, Apposite ; | ; Irrelevant ; | Pertinence | L:tenere | ok
+Pervasive | L:per-, L:vadere | ; Widespread, Ubiquitous, Prevalent ; Rampant | ; Localized, Rare ; | Pervade | T:Pervasive | ok
+Petulant | L:petere | ; Peevish, Irritable ; Sulky, Querulous | Good-natured, Placid ; ; | Petulance | L:petere | ok
+Philanthropy | G:philein, G:anthropos | Charity, Benevolence, Generosity ; Altruism ; | ; ; Misanthropy | Philanthropic, Philanthropist | G:anthropos | ok
+Phlegmatic | G:phlegma | ; Unemotional, Stoic, Calm ; Sluggish, Apathetic | Excitable, Passionate ; ; | Phlegm |  | ok
+Pinnacle | L:pinna | Zenith, Apex ; Summit, Peak ; | ; ; Nadir |  | T:Acme | ok
+Pious | L:pius | Devout, Reverent ; Religious ; Sanctimonious | ; Irreverent ; Impious | Piety | T:Pious | ok
+Piquant | F:piquer | ; Tangy, Spicy, Zesty ; | ; Bland ; | Piquancy |  | ok
+Pithy | E:pitha | Concise, Succinct, Terse ; Compact ; | ; ; Verbose, Rambling | Pith | T:Garrulous | low
+Platitude | G:platys | ; Truism, Cliche ; Banality, Bromide | Insight, Originality ; ; |  | T:Cliche | ok
+Plausible | L:plaudere | ; Credible, Believable, Reasonable ; Specious | ; Implausible, Far-fetched ; | Plausibility |  | ok
+Plethora | G:plethein | ; Abundance, Profusion ; Glut, Surfeit | Paucity, Dearth ; ; |  | T:Dearth | ok
+Pliant | L:plicare | ; Flexible, Pliable, Supple ; Docile | Rigid, Inflexible ; ; | Pliancy | T:Malleable | ok
+Poignant | L:pungere | Moving, Touching ; Affecting ; Heartbreaking | ; ; | Poignancy | L:pungere | ok
+Polemic | G:polemos | ; Argument, Controversy ; Diatribe, Tirade | ; ; | Polemical | T:Bemoan | ok
+Pragmatic | G:pragma | ; Practical, Realistic, Sensible ; | Idealistic ; Impractical ; | Pragmatism | T:Pragmatic | ok
+Precarious | L:prex | ; Unstable, Uncertain ; Perilous, Dicey, Insecure | Secure, Stable ; ; | Precariousness |  | ok
+Preclude | L:prae-, L:claudere | ; Prevent, Rule out, Obviate ; | ; Allow ; | Preclusion | L:claudere | low
+Precursor | L:prae-, L:currere | ; Forerunner, Predecessor ; Harbinger | ; Successor ; |  | T:Harbinger | low
+Preeminent | L:prae-, L:eminere | Distinguished, Supreme, Foremost ; Leading ; | ; ; Inferior | Preeminence |  | ok
+Presumptuous | L:prae-, L:sumere | ; ; Arrogant, Brazen, Overweening | Humble, Deferential ; ; | Presumption | T:Blatant | low
+Prevalent | L:prae-, L:valere | ; Widespread, Common, Rife ; | ; Rare, Scarce ; | Prevalence | L:valere | low
+Prevaricate | L:prae-, L:varicare | ; Equivocate, Hedge, Evade ; Lie | ; Speak plainly ; | Prevarication | T:Prevaricate | ok
+Pristine | L:pristinus | Immaculate, Unspoiled ; Original, Primitive ; | ; ; Tainted, Sullied |  | T:Pristine | ok
+Probity | L:probus | Integrity, Honesty, Rectitude ; ; | ; ; Dishonesty, Depravity |  | L:probus | ok
+Proclivity | L:pro-, L:clivus | ; Inclination, Tendency, Propensity ; | ; Aversion ; |  |  | ok
+Procrastinate | L:pro-, L:cras | ; Delay, Postpone, Defer ; Dawdle, Stall | Expedite, Hasten ; ; | Procrastination |  | ok
+Prodigious | L:prodigium | ; Immense, Vast, Colossal ; Staggering | ; Tiny, Negligible ; | Prodigy |  | ok
+Prolific | L:proles, L:facere | Fruitful, Productive, Fertile ; Abundant ; | ; ; Barren, Sterile |  | T:Fecund | ok
+Prolixity | L:prolixus | ; ; Verbosity, Wordiness, Long-windedness | Brevity, Concision ; ; | Prolix |  | ok
+Promulgate | L:pro-, L:vulgus | ; Proclaim, Publicize, Disseminate ; | ; Suppress ; | Promulgation |  | ok
+Propensity | L:pro-, L:pendere | ; Inclination, Tendency, Predisposition ; | ; Aversion ; |  | L:pendere | low
+Propitious | L:pro-, L:petere | Auspicious, Favorable, Promising ; ; | ; ; Ominous, Inauspicious |  | L:petere | ok
+Propriety | L:proprius | Decorum, Correctness, Decency ; Etiquette ; | ; ; Impropriety | Proper | T:Decorum | ok
+Prosaic | L:prosa | ; Ordinary, Pedestrian, Mundane ; Dull, Humdrum | Poetic, Imaginative ; ; | Prose |  | ok
+Protagonist | G:protos, G:agon | ; Lead, Hero, Principal ; | ; Antagonist ; |  | G:agon | ok
+Protract | L:pro-, L:trahere | ; Prolong, Extend, Lengthen ; Drag out | ; Curtail ; | Protraction | L:trahere | ok
+Provident | L:pro-, L:videre | Prudent, Thrifty, Farsighted ; ; | ; ; Improvident, Wasteful | Providence | L:videre | low
+Prudence | L:pro-, L:videre | Wisdom, Discretion, Caution ; Sagacity ; | ; ; Recklessness, Rashness | Prudent | L:videre | ok
+Puerile | L:puer | ; Childish, Juvenile ; Immature, Silly, Jejune | Mature, Adult ; ; | Puerility | T:Jejune | ok
+Pugnacious | L:pugnus | ; Combative, Belligerent ; Truculent, Quarrelsome, Aggressive | Peaceable, Amiable ; ; | Pugnacity |  | ok
+Punctilious | L:pungere | ; Meticulous, Scrupulous ; Fussy, Finicky | ; Careless, Lax ; | Punctiliousness | L:pungere | low
+Pungent | L:pungere | ; Sharp, Acrid, Piquant ; Biting | Mild, Bland ; ; | Pungency | L:pungere | ok
+Pusillanimous | L:pusillus, L:animus | ; ; Cowardly, Timorous, Fainthearted | Courageous, Valiant ; ; | Pusillanimity | L:animus | low
+Quagmire | E:quag | ; Swamp, Bog, Morass ; Predicament | ; ; |  |  | low
+Qualm | E:cwealm | ; Misgiving, Scruple, Doubt ; Pang | Confidence ; ; |  |  | ok
+Quandary | ?:quandary | ; Dilemma, Predicament ; Bind, Plight | ; ; |  |  | low
+Quell | E:cwellan | ; Suppress, Subdue ; Crush | ; Incite ; |  |  | ok
+Querulous | L:queri | ; Complaining ; Peevish, Petulant, Whining | Content, Uncomplaining ; ; | Querulousness |  | ok
+Quibble | L:quis | ; Minor objection ; Cavil, Nitpick | ; ; |  | T:Quibble | ok
+Quiddity | L:quid | ; Essence, Nature ; Quibble | ; ; |  | T:Quibble | ok
+Quiescent | L:quies | ; Dormant, Inactive, Still ; | ; Active ; | Quiescence |  | ok
+Quintessence | L:quintus, L:esse | Epitome, Embodiment ; Essence ; | ; ; | Quintessential | L:esse | ok
+Quixotic | S:Quijote | ; Idealistic, Romantic ; Impractical, Unrealistic | Pragmatic, Realistic ; ; | Quixotism | T:Pragmatic | low
+Quotidian | L:quotidie | ; Daily, Everyday, Routine ; Mundane, Humdrum | Extraordinary, Exceptional ; ; |  |  | ok
+Rabid | L:rabere | ; Fanatical ; Frenzied, Raging, Fervid | ; ; | Rabies |  | ok
+Raconteur | F:raconter | Storyteller, Narrator ; Anecdotist ; | ; ; |  |  | low
+Rancor | L:rancere | ; ; Resentment, Spite, Bitterness | Goodwill, Forgiveness ; ; | Rancorous |  | ok
+Rankle | F:rancler | ; Irk, Fester ; Embitter, Gall, Vex | Soothe ; ; |  | T:Nettle | ok
+Rapprochement | L:prope | ; Reconciliation, Detente ; | ; Estrangement ; |  |  | low
+Rarefied | L:rarus | ; Thin ; Elite, Esoteric | Dense ; ; | Rarefy |  | low
+Rationale | L:ratio | ; Reasoning, Justification, Basis ; | ; ; | Rational | L:ratio | low
+Rationalization | L:ratio | ; Justification, Excuse ; | ; ; | Rationalize | L:ratio | ok
+Raucous | L:raucus | ; Loud, Boisterous, Rowdy ; Strident, Harsh | Quiet, Sedate ; ; | Raucousness | T:Boisterous | low
+Reactionary | L:re-, L:agere | ; Conservative, Traditionalist ; Diehard | Progressive, Radical ; ; | Reaction | L:agere | low
+Rebuff | I:ribuffare | ; Refuse, Decline ; Snub, Reject | Welcome, Embrace ; ; |  |  | ok
+Rebuke | F:buchier | ; Reprimand, Admonish ; Reproach, Scold, Chide | Praise, Commend ; ; |  | T:Admonish | ok
+Recalcitrant | L:re-, L:calx | ; Defiant, Unruly ; Stubborn, Obstinate | Compliant, Docile ; ; | Recalcitrance | L:calx | ok
+Recant | L:re-, L:cantare | ; Retract, Renounce, Withdraw ; Disavow | Reaffirm, Maintain ; ; | Recantation |  | ok
+Recapitulate | L:re-, L:caput | ; Summarize, Recap, Review ; | ; Elaborate ; | Recapitulation | L:caput | low
+Reciprocal | L:re-, L:pro- | ; Mutual, Shared ; | ; Unilateral ; | Reciprocity, Reciprocate |  | ok
+Recluse | L:re-, L:claudere | ; Hermit, Loner ; Misanthrope | ; Socialite ; | Reclusive | L:claudere | ok
+Recondite | L:re-, L:condere | ; Esoteric, Obscure, Abstruse ; Arcane | Accessible, Clear ; ; |  |  | ok
+Reconnaissance | L:re-, L:noscere | ; Survey, Scouting ; | ; ; | Reconnoiter | L:noscere | low
+Recrimination | L:re-, L:crimen | ; Counter-accusation, Retort ; Mudslinging | ; ; | Recriminate |  | low
+Rectitude | L:regere | Integrity, Uprightness, Probity ; ; | ; ; Dishonesty |  | L:regere | ok
+Redoubtable | L:re-, L:dubitare | Formidable, Illustrious ; Fearsome ; | ; ; |  |  | ok
+Redundant | L:red-, L:unda | ; Superfluous, Excessive ; Needless, Wordy | Essential, Necessary ; ; | Redundancy | L:unda | ok
+Refractory | L:re-, L:frangere | ; Stubborn, Unmanageable ; Obstinate, Unruly | Docile, Tractable ; ; | Refractoriness |  | low
+Refute | L:refutare | ; Disprove, Rebut, Counter ; Debunk | Confirm, Substantiate ; ; | Refutation | T:Debunk | ok
+Regressive | L:re-, L:gradi | ; Backward, Retrograde, Reactionary ; | Progressive ; ; | Regression | L:gradi | low
+Rehabilitate | L:re-, L:habere | Restore, Reform ; Reinstate, Renew ; | ; ; | Rehabilitation | L:habere | low
+Reiterate | L:re-, L:iterum | ; Repeat, Restate, Reaffirm ; | ; ; | Reiteration |  | ok
+Relegate | L:re-, L:legare | ; Demote, Consign, Assign ; Banish | Promote, Elevate ; ; | Relegation |  | ok
+Relentless | L:lentus | ; Unrelenting, Persistent ; Merciless, Implacable, Ruthless | Merciful, Yielding ; ; |  | T:Implacable | low
+Remiss | L:re-, L:mittere | ; Negligent, Neglectful ; Lax, Careless, Slack | Diligent, Conscientious ; ; | Remissness | L:mittere | ok
+Remonstrance | L:re-, L:monstrare | ; Protest, Objection, Complaint ; Reproach | ; ; | Remonstrate |  | ok
+Remorse | L:re-, L:mordere | ; Regret, Contrition ; Guilt, Compunction | Callousness ; ; | Remorseful |  | ok
+Rendition | L:reddere | ; Performance, Interpretation, Surrender ; | ; ; | Render |  | ok
+Sagacious | L:sagax | Wise, Shrewd, Astute ; Discerning ; | ; ; Foolish, Obtuse | Sagacity | T:Sagacious | ok
+Salient | L:salire | ; Prominent, Conspicuous, Striking ; | ; Insignificant ; | Salience | L:salire | ok
+Salutary | L:salus | Beneficial, Wholesome, Healthful ; ; | ; ; Harmful, Detrimental |  | T:Deleterious | ok
+Sanctimonious | L:sanctus | ; ; Self-righteous, Pious, Holier-than-thou | Humble, Sincere ; ; | Sanctimony | T:Pious | low
+Sanguine | L:sanguis | Optimistic, Hopeful, Cheerful ; Confident ; | ; ; Pessimistic, Despondent | Sanguinity |  | ok
+Sapient | L:sapere | Wise, Sagacious, Judicious ; ; | ; ; Foolish | Sapience | L:sapere | ok
+Sardonical | G:sardonios | ; Mocking, Cynical ; Sarcastic, Scornful | Sincere, Earnest ; ; | Sardonic |  | low
+Satiate | L:satis | ; Satisfy, Sate, Fill ; Glut, Cloy | Starve, Deprive ; ; | Satiety |  | ok
+Scanty | N:skamt | ; Sparse, Meager, Limited ; Skimpy, Paltry | Ample, Abundant ; ; | Scantiness | T:Bountiful | low
+Scapegoat | He:azazel | ; Fall guy, Whipping boy ; Patsy | ; ; |  |  | low
+Schism | G:schizein | ; Split, Division, Rift ; Breach | Union, Unity ; ; | Schismatic |  | ok
+Scrupulous | L:scrupulus | Meticulous, Conscientious, Principled ; ; | ; ; Careless, Unprincipled | Unscrupulous, Scruple | T:Fastidious | low
+Secularism | L:saeculum | ; Worldliness, Laicism ; | ; Theocracy ; | Secular |  | low
+Sedimentation | L:sedere | ; Settling, Deposition ; | ; ; | Sediment | L:sedere | low
+Sedition | L:se-, L:ire | ; Insurrection, Rebellion ; Subversion | Loyalty, Allegiance ; ; | Seditious | L:ire | low
+Semantics | G:sema | ; Meaning, Signification ; | ; ; | Semantic |  | ok
+Sentient | L:sentire | ; Conscious, Aware, Feeling ; | ; Insentient, Inanimate ; | Sentience | L:sentire | ok
+Serendipity | A:Sarandib | Fortune, Luck ; Chance ; | ; ; | Serendipitous |  | low
+Servile | L:servus | ; Subservient ; Obsequious, Slavish, Fawning | Assertive, Independent ; ; | Servility | L:servus | ok
+Shrewd | E:screawa | Astute, Sagacious, Perceptive ; Canny ; Calculating | ; Naive ; | Shrewdness | T:Sagacious | ok
+Simulacrum | L:similis | ; Likeness, Image, Replica ; Sham | ; Original ; |  |  | ok
+Skepticism | G:skeptesthai | ; Doubt, Questioning ; Cynicism | Faith, Credulity ; ; | Skeptic, Skeptical | T:Nihilism | ok
+Slanderous | L:scandalum | ; ; Defamatory, Libelous, Malicious | Complimentary ; ; | Slander |  | low
+Slovenly | D:slof | ; Untidy, Messy ; Sloppy, Unkempt, Slatternly | Neat, Tidy ; ; | Slovenliness | T:Slovenly | low
+Sobriety | L:sobrius | Temperance, Restraint ; Seriousness ; | ; ; Intoxication | Sober | T:Sobriety | low
+Solicitude | L:sollus, L:ciere | Concern, Care, Consideration ; Attentiveness ; Anxiety | ; ; Neglect, Indifference | Solicitous |  | ok
+Solipsism | L:solus, L:ipse | ; Egocentrism ; Self-absorption | ; ; | Solipsist |  | low
+Solvency | L:solvere | ; Financial stability, Creditworthiness ; | ; ; Insolvency | Solvent |  | low
+Sophistry | G:sophos | ; Casuistry ; Fallacy, Quibbling, Specious reasoning | ; ; | Sophist |  | ok
+Soporific | L:sopor, L:facere | ; Sedative, Hypnotic ; Tedious | Stimulating, Invigorating ; ; |  | T:Soporific | low
+Specious | L:specere | ; Plausible-seeming ; Deceptive, Misleading, Fallacious | Genuine, Sound ; ; | Speciousness | L:specere | ok
+Sporadic | G:speirein | ; Occasional, Intermittent, Scattered ; | ; Constant, Continuous ; | Sporadically |  | ok
+Spurious | L:spurius | ; ; False, Counterfeit, Bogus | Genuine, Authentic ; ; | Spuriousness | T:Bogus | ok
+Stalwart | E:stathol | Loyal, Steadfast ; Sturdy, Reliable ; | ; ; Wavering, Craven |  |  | ok
+Stigma | G:stizein | ; Mark, Brand ; Disgrace, Shame, Taint | ; ; | Stigmatize |  | ok
+Stoicism | G:stoa | ; Endurance, Impassivity, Forbearance ; | ; Emotionalism ; | Stoic |  | ok
+Stringent | L:stringere | ; Strict, Rigorous, Exacting ; Draconian | Lenient, Lax ; ; | Stringency | T:Lax | ok
+Subservient | L:sub-, L:servus | ; Deferential, Submissive ; Servile, Obsequious | Dominant, Assertive ; ; | Subservience | L:servus | ok
+Taboo | Po:tapu | ; Forbidden, Prohibited ; Proscribed | ; Permitted ; |  |  | ok
+Tabulate | L:tabula | ; Arrange, Chart, Catalogue ; | ; ; | Tabulation |  | ok
+Taciturn | L:tacere | ; Reserved, Reticent, Uncommunicative ; Sullen | Talkative, Garrulous ; ; | Taciturnity | T:Garrulous | ok
+Tactful | L:tangere | Diplomatic, Discreet, Considerate ; Sensitive ; | ; ; Tactless, Blunt | Tact | L:tangere | low
+Tainted | L:tingere | ; Contaminated, Spoiled ; Sullied, Corrupted, Tarnished | Pure, Untainted ; ; | Taint | T:Pristine | low
+Talisman | G:telesma | ; Charm, Amulet, Fetish ; | ; ; |  |  | ok
+Tangential | L:tangere | ; Peripheral, Incidental ; Irrelevant | Central, Relevant ; ; | Tangent | L:tangere | low
+Tantamount | L:tantus, L:mons | ; Equivalent, Equal ; | ; ; |  |  | ok
+Tarnish | E:tarni | ; Dull, Discolor ; Sully, Besmirch, Stain | Polish, Burnish ; ; |  | T:Besmirch | low
+Tautology | G:tauto, G:logos | ; Redundancy, Repetition ; Verbiage | ; ; | Tautological | G:logos | ok
+Tawdry | E:Aethelthryth | ; Showy ; Gaudy, Cheap, Tacky | Elegant, Refined ; ; |  | T:Garish | ok
+Tedious | L:taedium | ; ; Monotonous, Dull, Wearisome | Engaging, Stimulating ; ; | Tedium | T:Soporific | low
+Temerity | L:temere | ; ; Audacity, Recklessness, Impudence | Caution, Prudence ; ; |  | T:Audacity | ok
+Temperance | L:temperare | Moderation, Restraint, Self-control ; Sobriety ; | ; ; Excess, Intemperance | Temperate | T:Sobriety | ok
+Temporal | L:tempus | ; Worldly, Secular, Chronological ; | ; Spiritual, Eternal ; | Temporary |  | ok
+Tenacious | L:tenere | Persistent, Steadfast, Resolute ; Firm ; Stubborn | ; Wavering ; | Tenacity | L:tenere | ok
+Tendentious | L:tendere | ; Biased, Partisan ; Slanted, One-sided | Impartial, Objective ; ; | Tendentiousness | L:tendere | ok
+Tenet | L:tenere | ; Principle, Doctrine, Belief ; | ; ; |  | L:tenere | ok
+Tentative | L:temptare | ; Provisional, Hesitant, Experimental ; | Definite, Conclusive ; ; | Tentatively |  | ok
+Tenuous | L:tenuis | ; Slight, Thin, Flimsy ; Shaky | Substantial, Solid ; ; | Tenuousness | L:tenuis | low
+Tepid | L:tepere | ; Lukewarm, Mild ; Halfhearted, Unenthusiastic | Passionate, Enthusiastic ; ; | Tepidity |  | ok
+Terminology | L:terminus, G:logos | ; Vocabulary, Nomenclature, Jargon ; | ; ; | Term | G:logos | ok
+Terse | L:tergere | ; Concise, Succinct, Brief ; Curt, Abrupt | Verbose, Wordy ; ; | Terseness | T:Garrulous | ok
+Theocracy | G:theos, G:kratos | ; Priestly rule, Divine rule ; | ; Secularism ; | Theocratic | G:kratos | low
+Thrifty | N:thrifask | Frugal, Economical, Prudent ; ; | ; ; Wasteful, Profligate | Thrift | T:Lavish | low
+Thwart | N:thvert | ; Frustrate, Foil, Block ; Impede | Facilitate, Assist ; ; |  | T:Baffle | ok
+Timorous | L:timor | ; ; Timid, Fearful, Fainthearted | Bold, Intrepid ; ; | Timorousness |  | ok
+Tirade | F:tirer | ; Harangue, Rant ; Diatribe, Screed | ; ; |  | T:Bemoan | low
+Titular | L:titulus | ; Nominal, In name only ; | ; Actual ; | Title |  | ok
+Toady | E:tadige | ; ; Sycophant, Lackey, Flatterer | ; ; |  | T:Kowtow | low
+Torpor | L:torpere | ; Lethargy, Inertia ; Stupor, Sluggishness | Vigor, Alacrity ; ; | Torpid | T:Alacrity | ok
+Torrid | L:torrere | ; Scorching, Parched ; Sweltering | Frigid ; ; | Torridity |  | ok
+Totalitarian | L:totus | ; Authoritarian, Dictatorial ; Oppressive | Democratic, Libertarian ; ; | Totalitarianism |  | low
+Tout | E:totian | ; Promote, Advertise ; Peddle, Hype | ; ; |  |  | ok
+Tractable | L:trahere | ; Docile, Manageable, Amenable ; | Intractable, Unruly ; ; | Tractability | L:trahere | ok
+Traduce | L:trans-, L:ducere | ; Defame ; Slander, Malign, Vilify | Praise, Laud ; ; |  | T:Laud | ok
+Tranquility | L:tranquillus | Serenity, Peace, Calm ; ; | ; ; Turmoil, Agitation | Tranquil |  | low
+Transcend | L:trans-, L:scandere | ; Surpass, Exceed, Rise above ; | ; ; | Transcendence |  | ok
+Transgression | L:trans-, L:gradi | ; Offense, Infraction ; Sin, Trespass | ; ; | Transgress | L:gradi | low
+Transient | L:trans-, L:ire | ; Fleeting, Temporary, Passing ; | Permanent, Enduring ; ; | Transience | L:ire | low
+Translucent | L:trans-, L:lucere | ; Semi-transparent, Diaphanous ; | ; Opaque ; | Translucence | L:lucere | ok
+Travesty | L:trans-, L:vestire | ; Parody ; Mockery, Farce | ; ; |  |  | ok
+Treacherous | F:tricher | ; Deceptive ; Perfidious, Disloyal, Hazardous | Loyal, Faithful ; ; | Treachery |  | ok
+Ubiquitous | L:ubi | ; Omnipresent, Pervasive, Widespread ; | ; Rare, Scarce ; | Ubiquity | T:Pervasive | ok
+Umbrage | L:umbra | ; Offense, Resentment ; Pique | Delight ; ; |  |  | ok
+Unabashed | E:un-, F:esbahir | ; Unembarrassed, Brazen ; Shameless | Bashful, Sheepish ; ; |  | T:Blatant | low
+Unabated | E:un-, F:abattre | ; Undiminished, Relentless ; | ; ; |  | T:Implacable | low
+Unbeknown | E:un-, E:cnawan | ; Unknown, Unnoticed ; | ; ; | Unbeknownst |  | low
+Unbridled | E:un-, F:bride | ; Unrestrained, Uninhibited ; Rampant, Unchecked | Restrained, Controlled ; ; |  |  | low
+Uncanny | E:un-, E:cunnan | ; Eerie, Strange, Mysterious ; Spooky | Ordinary, Natural ; ; | Uncannily | E:cunnan | low
+Unconscionable | E:un-, L:com-, L:scire | ; ; Unscrupulous, Exorbitant, Shameless | Fair, Ethical ; ; |  |  | low
+Uncouth | E:un-, E:cunnan | ; Unrefined, Rough ; Boorish, Crude, Vulgar | Polished, Refined ; ; | Uncouthness | E:cunnan | low
+Unctuous | L:unguere | ; Oily, Smooth ; Smarmy, Fawning, Oleaginous | Sincere ; ; | Unctuousness | T:Adulation | ok
+Undergird | E:under-, E:gyrdan | Fortify, Strengthen ; Support, Underpin ; | ; ; Undermine |  | E:gyrdan | low
+Undermine | E:under-, F:miner | ; Weaken, Erode, Subvert ; Sabotage | Bolster, Fortify ; ; |  | T:Bolster | low
+Underpin | E:under-, E:pinn | ; Support, Sustain, Prop ; | ; Undermine ; | Underpinning | T:Bolster | low
+Underscore | E:under-, E:scoru | ; Emphasize, Highlight, Stress ; | ; Downplay ; |  |  | low
+Undulate | L:unda | ; Ripple, Wave, Fluctuate ; | ; ; | Undulation | L:unda | ok
+Unequivocal | L:in-, L:aequus, L:vocare | ; Unambiguous, Explicit, Categorical ; | ; Equivocal, Ambiguous ; | Unequivocally | L:aequus | low
+Unethical | E:un-, G:ethos | ; Immoral ; Unscrupulous, Corrupt | Ethical, Principled ; ; |  |  | low
+Unflinching | E:un-, E:flencan | Resolute, Steadfast ; Unwavering ; | ; ; Flinching |  |  | low
+Unilateralism | L:unus, L:later | ; Independent action ; Go-it-alone attitude | ; Multilateralism ; | Unilateral |  | low
+Unimpeachable | L:in-, L:pes | ; Blameless, Flawless ; | ; Questionable ; |  |  | low
+Unintelligible | L:in-, L:inter-, L:legere | ; Incomprehensible, Garbled, Indecipherable ; Gibberish | Clear, Lucid ; ; | Unintelligibility | L:legere | low
+Universalism | L:unus, L:vertere | ; Universality, Inclusiveness ; | ; Particularism ; | Universal | L:vertere | low
+Unkempt | E:un-, E:cemban | ; Untidy, Disheveled ; Slovenly, Scruffy | Neat, Groomed ; ; |  | T:Slovenly | low
+Unobtrusive | L:in-, L:ob-, L:trudere | ; Inconspicuous, Discreet, Low-key ; | ; Conspicuous ; | Unobtrusiveness | L:trudere | low
+Unremitting | E:un-, L:re-, L:mittere | ; Relentless, Constant, Persistent ; | ; Intermittent ; |  | L:mittere | ok
+Unsavory | E:un-, L:sapere | ; ; Disreputable, Distasteful, Seedy | Wholesome, Reputable ; ; | Savory | L:sapere | low
+Unseemly | E:un-, N:saemr | ; Improper, Indecorous ; Indecent, Unbecoming | Proper, Seemly ; ; |  |  | low
+Unstinting | E:un-, E:styntan | Generous, Lavish ; Ungrudging ; | ; ; Grudging |  | T:Lavish | ok
+Untenable | E:un-, L:tenere | ; Indefensible, Unsustainable ; | ; Defensible, Tenable ; |  | L:tenere | low
+Untoward | E:un-, E:toweard | ; Unexpected, Adverse ; Unfortunate, Inappropriate | Fortunate, Favorable ; ; |  |  | low
+Unwarranted | E:un-, F:warant | ; Unjustified, Groundless ; Uncalled-for | Justified, Warranted ; ; |  |  | low
+Unwieldy | E:un-, E:wieldan | ; Cumbersome, Bulky ; Clumsy, Awkward | Manageable, Compact ; ; | Unwieldiness |  | low
+Unwitting | E:un-, E:witan | ; Unaware, Unintentional ; | ; Deliberate, Knowing ; | Unwittingly | E:witan | ok
+Upbraid | E:up-, E:bregdan | ; Reproach, Scold ; Berate, Castigate | Praise, Commend ; ; |  | T:Berate | ok
+Upheaval | E:up-, E:hebban | ; Disruption, Turmoil, Commotion ; Cataclysm | Calm, Stability ; ; |  | T:Bane | low
+Uphold | E:up-, E:healdan | Support, Defend ; Maintain, Sustain ; | ; ; Overturn |  | E:healdan | low
+Uproar | D:oproer | ; Commotion, Clamor ; Pandemonium, Tumult | Calm, Peace ; ; |  |  | ok
+Urbane | L:urbs | Suave, Polished, Sophisticated ; Refined ; | ; ; Boorish, Uncouth | Urbanity | T:Boorish | ok
+Usurp | L:usurpare | ; Seize, Appropriate ; Hijack | ; ; | Usurpation | T:Encroach | ok
+Utilitarianism | L:uti | ; Pragmatism ; | ; ; | Utilitarian, Utility |  | low
+Utmost | E:ut | ; Greatest, Maximum, Ultimate ; | ; Least ; |  | E:ut | ok
+Utopia | G:ou-, G:topos | Paradise, Arcadia, Eden ; ; | ; ; Dystopia | Utopian |  | ok
+Utterance | E:ut | ; Statement, Remark, Expression ; | ; ; | Utter | E:ut | low
+Vacillate | L:vacillare | ; Waver, Oscillate, Fluctuate ; Dither | ; Decide ; | Vacillation | T:Oscillate | ok
+Vacuous | L:vacuus | ; Empty, Blank ; Inane, Vapid, Fatuous | Meaningful, Substantive ; ; | Vacuity | T:Asinine | ok
+Vagary | L:vagari | ; Whim, Caprice, Quirk ; | ; ; | Vagaries |  | ok
+Valedictory | L:vale, L:dicere | ; Farewell, Parting ; | ; Inaugural ; | Valedictorian | L:dicere | ok
+Valiant | L:valere | Brave, Courageous, Gallant ; ; | ; ; Cowardly, Craven | Valor | L:valere | ok
+Valor | L:valere | Courage, Bravery, Heroism ; ; | ; ; Cowardice | Valorous | L:valere | low
+Vanguard | L:ab-, L:ante- | ; Forefront, Spearhead, Van ; | ; Rear guard ; |  |  | ok
+Vanquish | L:vincere | ; Defeat, Conquer, Overcome ; Crush | Surrender, Yield ; ; |  |  | ok
+Vapid | L:vapidus | ; Insipid, Flat, Bland ; Vacuous, Lifeless | Vibrant, Lively ; ; | Vapidity | T:Asinine | low
+Variegated | L:varius | ; Multicolored, Varied, Mottled ; | ; Uniform ; | Variegation | T:Kaleidoscopic | low
+Vehemence | L:ve-, L:mens | Passion, Fervor ; Intensity, Force ; Fury | ; ; Apathy | Vehement |  | ok
+Venal | L:venum | ; Corrupt, Mercenary ; Bribable, Unscrupulous | Incorruptible, Honest ; ; | Venality | T:Mercenary | ok
+Venerate | L:venerari | Revere, Honor, Esteem ; Worship ; | ; Disregard ; Despise, Revile, Scorn | Venerable, Veneration |  | ok
+Venial | L:venia | ; Forgivable, Excusable ; Minor | ; Unpardonable, Mortal ; |  |  | ok
+Venturesome | L:ad-, L:venire | ; Adventurous, Daring, Bold ; Reckless | Cautious, Timid ; ; |  | L:venire | low
+Veracious | L:verus | Truthful, Honest, Accurate ; ; | ; ; Mendacious, Deceitful | Veracity | L:verus | ok
+Verbatim | L:verbum | ; Word for word, Literal, Exact ; | ; Paraphrased ; |  | L:verbum | ok
+Verbiage | L:verbum | ; Wording, Phraseology ; Wordiness, Padding | ; ; |  | L:verbum | ok
+Verbose | L:verbum | ; Wordy ; Long-winded, Prolix, Rambling | Concise, Terse, Laconic ; ; | Verbosity | L:verbum | ok
+Verdant | L:viridis | Lush, Green ; Leafy ; | ; ; Barren | Verdure |  | ok
+Verisimilitude | L:verus, L:similis | ; Plausibility, Realism ; | ; ; |  | L:verus | ok
+Verity | L:verus | ; Truth, Reality ; | ; ; Falsehood | Verities | L:verus | ok
+Vernacular | L:verna | ; Native speech, Dialect ; Colloquial | ; Formal ; |  |  | ok
+Versatile | L:vertere | Adaptable, Flexible, Multifaceted ; ; | ; ; Inflexible, Limited | Versatility | L:vertere | ok
+Vestige | L:vestigium | ; Trace, Remnant, Relic ; | ; ; | Vestigial |  | ok
+Veto | L:vetare | ; Reject, Forbid ; | Approve, Ratify ; ; |  |  | ok
+Vex | L:vexare | ; Annoy, Irritate ; Torment, Harass | Please, Soothe ; ; | Vexation | T:Nettle | ok
+Viability | L:vita | ; Feasibility, Workability ; | ; ; | Viable |  | low
+Vicariously | L:vicis | ; Indirectly, Secondhand ; | ; Directly ; | Vicarious | L:vicis | low
+Vicissitude | L:vicis | ; Change, Fluctuation ; Upheaval | ; Stability ; |  | L:vicis | ok
+Vigilant | L:vigilare | Watchful, Alert, Attentive ; ; | ; ; Negligent, Inattentive | Vigilance |  | ok
+Vigor | L:vigere | Vitality, Energy, Robustness ; ; | ; ; Weakness, Lassitude | Vigorous | T:Alacrity | low
+Vilify | L:vilis | ; ; Slander, Malign, Denigrate | Praise, Laud ; ; | Vilification | T:Laud | ok
+Vindicate | L:vim, L:dicere | Exonerate, Absolve ; Justify, Clear ; | ; ; Condemn, Incriminate | Vindication | L:dicere | ok
+Vindictive | L:vim, L:dicere | ; ; Vengeful, Spiteful, Revengeful | Forgiving, Magnanimous ; ; | Vindictiveness | L:dicere | ok
+Virulent | L:virus | ; Toxic, Poisonous ; Venomous, Malignant, Hostile | Harmless, Benign ; ; | Virulence |  | ok
+Waffle | D:wafel | ; Hedge, Equivocate ; Dither, Prevaricate | ; Commit ; |  | T:Prevaricate | ok
+Waft | E:waften | ; Drift, Float ; | ; ; |  |  | low
+Waggish | E:wag | ; Humorous, Playful, Jocular ; Mischievous | Serious, Solemn ; ; | Waggishness |  | low
+Wanderlust | De:wandern, De:Lust | ; Itch to travel, Restlessness ; | ; ; |  |  | ok
+Wane | E:wana | ; Dwindle, Decline, Ebb ; | Wax, Increase ; ; |  |  | ok
+Wanton | E:wan-, E:togen | ; Unprovoked, Reckless ; Gratuitous, Malicious, Lewd | ; ; | Wantonness | T:Lascivious | ok
+Wastrel | L:vastus | ; Spendthrift ; Profligate, Idler | Saver ; ; |  |  | low
+Waylay | E:weg, E:lecgan | ; Ambush, Intercept ; Accost | ; ; |  | E:weg | part
+Wayward | E:weg, E:weard | ; Willful, Unruly ; Disobedient, Perverse | Obedient, Compliant ; ; | Waywardness | E:weg | low
+Wheedle | E:waedlian | Coax ; Cajole ; Inveigle | ; ; |  | T:Cajole | ok
+Whimsical | ?:whim | Playful, Fanciful, Quirky ; Capricious ; | ; Practical ; | Whimsy |  | low
+Wily | N:vel | ; Shrewd, Crafty, Astute ; Cunning, Devious, Sly | Honest, Guileless ; ; | Wiliness | T:Sagacious | low
+Winnow | E:windwian | ; Sift, Separate, Filter ; | ; Mix ; |  |  | ok
+Winsome | E:wynsum | Charming, Engaging, Appealing ; ; | ; ; Repellent | Winsomeness |  | ok
+Wistful | ?:wistly | ; Yearning, Pensive, Longing ; Melancholy | Content, Cheerful ; ; | Wistfulness |  | low
+Wither | E:wederian | ; Wilt, Fade ; Shrivel | Flourish, Bloom ; ; |  | T:Burgeon | ok
+Witticism | E:witan | Quip, Repartee ; Wisecrack ; | ; ; |  | E:witan | low
+Woebegone | E:wa, E:began | ; Sorrowful, Forlorn ; Dejected, Doleful | Cheerful, Jubilant ; ; |  |  | ok
+Wrangle | E:wringan | ; Argue, Dispute, Bicker ; Squabble | ; Agree ; | Wrangler |  | ok
+Xenophobia | G:xenos, G:phobos | ; ; Bigotry, Chauvinism, Intolerance | Tolerance, Cosmopolitanism ; ; | Xenophobic |  | low
+Yearn | E:geornan | ; Long, Pine, Ache ; | ; Spurn ; | Yearning |  | ok
+Yore | E:geara | ; Long ago, Olden days ; | ; Present ; |  |  | ok
+Zeal | G:zelos | Ardor, Fervor, Passion ; ; Fanaticism | ; Indifference ; Apathy | Zealous, Zealot | T:Fanaticism | ok
+Zenith | A:samt | Pinnacle, Apex ; Summit, Peak ; | ; ; Nadir |  | T:Acme | ok

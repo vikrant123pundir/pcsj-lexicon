@@ -1,0 +1,170 @@
+# root | meaning | members in the vocab file
+A:az-zahr | the die (dice) | Haphazard, Hazardous
+E:cunnan | to know, to be able | Uncanny, Uncouth
+E:gyrdan | to gird, to encircle | Gird, Undergird
+E:hal | whole, healthy | Hale, Hallow
+E:healdan | to hold | Beholden, Uphold
+E:reafian | to rob, to deprive | Bereavement, Bereft
+E:ut | out | Utmost, Utterance
+E:weg | way | Waylay, Wayward
+E:witan | to know | Unwitting, Witticism
+G:agon | contest | Antagonism, Protagonist
+G:anthropos | human being | Misanthrope, Philanthropy
+G:arche | beginning, rule | Anarchy, Archaic, Archetype, Hierarchy, Oligarchy
+G:chronos | time | Anachronism, Chronological
+G:demos | the people | Demagogue, Endemic
+G:genos | race, kind, birth | Genealogy, Heterogeneous, Homogeneous
+G:heteros | other, different | Heterodox, Heterogeneous
+G:kratos | power, rule | Aristocracy, Autocracy, Kleptocracy, Theocracy
+G:legein | to gather, to speak | Eclectic, Lexicon
+G:logos | word, reason | Chronological, Genealogy, Neologism, Tautology, Terminology
+G:morphe | form, shape | Amorphous, Metamorphosis
+G:nemein | to distribute, to graze | Nemesis, Nomadic
+G:neos | new | Neologism, Neophyte
+G:pathos | feeling, suffering | Antipathy, Apathy, Empathetic
+G:tithenai | to put, to place | Anathema, Antithesis, Hypothetical
+G:typos | impression, type | Archetype, Atypical
+L:aequus | equal, level | Egalitarian, Unequivocal
+L:agere | to drive, to do | Ambiguity, Cogent, Mitigate, Reactionary
+L:alienus | of another, foreign | Alienate, Inalienable
+L:alter | other | Adulterate, Altruism
+L:animus | mind, spirit | Magnanimous, Pusillanimous
+L:avere | to crave | Avarice, Avid
+L:bellum | war | Bellicose, Belligerent
+L:bene | well, good | Benefactor, Beneficent, Benign
+L:brevis | short | Abridge, Brevity
+L:cadere | to fall | Cadence, Decadence
+L:calx | heel | Inculcate, Recalcitrant
+L:capere | to take, to seize | Capacitate, Captious, Incipient
+L:caput | head | Capitulate, Recapitulate
+L:castus | pure | Castigate, Chastise
+L:cedere | to go, to yield | Antecedent, Necessitate
+L:claudere | to close | Preclude, Recluse
+L:dicere | to say | Judicious, Malediction, Valedictory, Vindicate, Vindictive
+L:esse | to be | Nonentity, Quintessence
+L:facere | to make, to do | Artifice, Benefactor, Beneficent, Codification, Faction, Feasible, Feckless, Malefactor, Mollify, Officious, Prolific, Soporific
+L:fallere | to deceive | Fallacy, Fallible
+L:fari | to speak | Affable, Fatalism
+L:fendere | to strike | Manifest, Manifesto
+L:ferre | to carry, to bear | Deference, Elation
+L:fervere | to boil | Ferment, Fervent
+L:fides | faith, trust | Fealty, Fidelity, Perfidious
+L:fingere | to shape, to feign | Feign, Figurative
+L:fluere | to flow | Affluence, Mellifluous
+L:fungi | to perform | Defunct, Perfunctory
+L:gens | clan, people | Genteel, Gentry, Jaunty
+L:genus | birth, kind | Benign, Generality, Generosity, Malign
+L:gerere | to carry, to wage | Belligerent, Gesticulation
+L:gignere | to beget, to bear | Genial, Gingerly
+L:glutire | to swallow | Glut, Gluttonous
+L:gradi | to step, to walk | Degradation, Egress, Regressive, Transgression
+L:grandis | great, large | Aggrandizement, Grandeur
+L:habere | to have, to hold | Habituate, Rehabilitate
+L:haerere | to stick, to cling | Adherent, Coherent, Cohesion
+L:iocus | joke | Hoax, Jeopardize, Jocular
+L:ire | to go | Ambience, Sedition, Transient
+L:jungere | to join | Juncture, Junta, Juxtaposition
+L:languere | to droop, to be faint | Languid, Languish
+L:legere | to gather, to read | Negligible, Unintelligible
+L:levis | light (in weight) | Alleviate, Legerdemain, Levity
+L:liber | free | Libertarian, Libertine
+L:licere | to be permitted | Leisurely, Licentious
+L:loqui | to speak | Eloquent, Obloquy
+L:lucere | to shine | Elucidate, Translucent
+L:magnus | great | Magnanimous, Maximization
+L:malus | bad, evil | Malaise, Malcontent, Malediction, Malefactor, Malevolent, Malign
+L:manus | hand | Legerdemain, Manifest, Manifesto, Manipulative
+L:mittere | to send | Demise, Noncommittal, Remiss, Unremitting
+L:nasci | to be born | Naivety, Nascent
+L:negare | to deny | Abnegation, Negate
+L:nocere | to harm | Noxious, Obnoxious
+L:nomen | name | Ignominious, Nomenclature
+L:noscere | to know | Notoriety, Reconnaissance
+L:novus | new | Novelty, Novice
+L:odium | hatred | Noisome, Odious, Odium
+L:omnis | all | Omnipotent, Omniscient
+L:onus | burden | Onerous, Onus
+L:orare | to speak, to pray | Oracular, Oratory
+L:ordo | order, rank | Ordain, Ordinance
+L:peccare | to sin, to err | Impeccable, Peccadillo
+L:pendere | to hang, to weigh | Penchant, Pensive, Propensity
+L:petere | to seek, to aim at | Impetuous, Petulant, Propitious
+L:ponere | to put, to place | Apposite, Apropos, Juxtaposition
+L:prehendere | to seize | Apprehension, Apprise
+L:probus | upright, good | Approbation, Probity
+L:pungere | to prick | Poignant, Punctilious, Pungent
+L:ratio | reckoning, reason | Rationale, Rationalization
+L:regere | to rule, to guide straight | Adroit, Rectitude
+L:salire | to leap | Assail, Salient
+L:sapere | to taste, to be wise | Sapient, Unsavory
+L:scire | to know | Omniscient, Unconscionable
+L:scribere | to write | Ascribe, Nondescript
+L:sedere | to sit | Assiduous, Sedimentation
+L:sentire | to feel | Assent, Sentient
+L:servus | slave | Servile, Subservient
+L:similis | like, similar | Simulacrum, Verisimilitude
+L:specere | to look | Auspicious, Circumspect, Perspicacity, Specious
+L:stare | to stand | Obstinate, Oust
+L:tangere | to touch | Tactful, Tangential
+L:tendere | to stretch | Ostensible, Ostentatious, Tendentious
+L:tenere | to hold | Abstinence, Pertinent, Tenacious, Tenet, Untenable
+L:tenuis | thin | Attenuate, Tenuous
+L:trahere | to draw, to drag | Protract, Tractable
+L:trudere | to thrust | Abstruse, Unobtrusive
+L:unda | wave | Abound, Redundant, Undulate
+L:unus | one | Unilateralism, Universalism
+L:valere | to be strong, to be worth | Prevalent, Valiant, Valor
+L:venire | to come | Advent, Venturesome
+L:verbum | word | Verbatim, Verbiage, Verbose
+L:vertere | to turn | Adversity, Averse, Inadvertent, Universalism, Versatile
+L:verus | true | Aver, Veracious, Verisimilitude, Verity
+L:via | way | Impervious, Obviate
+L:vicis | turn, change | Vicariously, Vicissitude
+L:videre | to see | Provident, Prudence
+L:vim | force | Vindicate, Vindictive
+L:vocare | to call | Avow, Unequivocal
+N:happ | luck, chance | Haphazard, Hapless
+# prefixes (never used for grouping)
+E:be- | about, thoroughly (prefix)
+E:en- | in, to cause to (prefix)
+E:un- | not (prefix)
+E:under- | beneath (prefix)
+E:up- | up (prefix)
+E:wan- | lacking (prefix)
+G:a- | not, without (prefix)
+G:ana- | up, back (prefix)
+G:anti- | against (prefix)
+G:apo- | away from (prefix)
+G:ek- | out of (prefix)
+G:en- | in (prefix)
+G:epi- | upon (prefix)
+G:hyper- | over (prefix)
+G:hypo- | under (prefix)
+G:kata- | down (prefix)
+G:meta- | change, beyond (prefix)
+G:ou- | not (prefix)
+G:para- | beside (prefix)
+G:peri- | around (prefix)
+G:syn- | with, together (prefix)
+L:ab- | away from (prefix)
+L:abs- | away from (prefix)
+L:ad- | toward (prefix)
+L:ambi- | around, both (prefix)
+L:ante- | before (prefix)
+L:circum- | around (prefix)
+L:com- | with, together (prefix)
+L:de- | down, away, undo (prefix)
+L:e- | out (prefix)
+L:in- | not, or in, into (prefix)
+L:inter- | between (prefix)
+L:ne- | not (prefix)
+L:ob- | against, toward (prefix)
+L:per- | through, thoroughly (prefix)
+L:prae- | before (prefix)
+L:pro- | forward, for (prefix)
+L:re- | back, again (prefix)
+L:red- | back, again (prefix)
+L:se- | apart (prefix)
+L:sub- | under (prefix)
+L:trans- | across (prefix)
+L:ve- | uncertain prefix (prefix)
